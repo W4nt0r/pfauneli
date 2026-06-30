@@ -1,0 +1,294 @@
+[
+    {
+        "title": {
+            "cz": "Kapitola 0 - Vznik PFAUNELI",
+            "en": "Chapter 0 - Origin of PFAUNELI"
+        },
+        "description": {
+            "cz": "Jestli chceš i něco tady, nebo jen nadpis",
+            "en": "qq"
+        },
+        "artworks": [
+            {
+                "slug": "appedmm",
+                "category": "storytell",
+                "title": {
+                    "cz": "APPEDMM",
+                    "en": "APPEDMM"
+                },
+                "subtitle": "Popis I dunno, jak se to jmenuje :)",
+                "href": "/storytell/appedmm",
+                "thumbnail": "/images/artworks/appedmm/image.webp",
+                "description": {
+                    "cz": {
+                        "text": [
+                            "Obraz, který měl být jednoduchý a bez hlubší myšlenky. Propadání do depresí a rozstříštěných myšlenek začala etapa hledání sama sebe a hledání odpovědí. Řešíme zde neúprosný čas vyjádřen cvočky z hodinek, nebo vyobrazením staré zhrbené osoby o berli.",
+                            "Flexiblní lepidlo nataženo na plátno má představovat sílu ale zároveň křehkost naší psychiky.",
+                            "Černá stretch fólie dokáže krásně znázorňovat tvárnost, možné zhmotnění a nekonečnost v depresi a její prázdnotě.",
+                            "Samotná fólie, kterou jsme použili, je tvarována do specifických obrazců, které jsou schválně vyobrazeny a zároveň to krásně rozvíjí divákovu představivost.",
+                            "Řetěz naráží na spoutanost k dané emoci a jehla s nití zase parafrázuje, jak je jednoduché se bodnout o emoci."
+                        ],
+                        "info": "na celé ploše jsou různě vyrita data,jména a slangové slova, které byli aktualní pro dané období."
+                    },
+                    "en": {
+                        "text": [
+                            "A painting that was supposed to be simple and without a deeper thought. Falling into depression and fragmented thoughts began the stage of searching for oneself and searching for answers. Here we deal with persistent time expressed by watch studs, or by the depiction of an old hunched person on a crutch.",
+                            "Flexible glue stretched onto the canvas is supposed to represent the strength but also the fragility of our psyche.",
+                            "Black stretch foil can beautifully depict plasticity, possible materialization and infinity in depression and its emptiness.",
+                            "The foil itself that we used is shaped into specific patterns that are deliberately depicted and at the same time it beautifully develops the viewer's imagination.",
+                            "The chain alludes to the bondage to a given emotion and the needle and thread paraphrase how easy it is to prick yourself with an emotion."
+                        ],
+                        "info": "The entire surface is engraved with various dates, names and slang words that were current for the given period."
+                    }
+                },
+                "year": "2025",
+                "dimensions": {
+                    "cz" : {
+                        "value": "100x100x2 cm, s přesahem do prostoru: 127x107x9 cm"
+                    },
+                    "en" : {
+                        "value": "100x100cm +- 8cm range into space"
+                    }
+                },
+                "medium": {
+                    "cz": {
+                        "value": "Stretch folie, flexibilní lepidlo, akryl, kůže, cvočky hodinek, řetěz",
+                        "info": "Na plátně je černý akryl potáhnutý dvěmi vrstvami flexibilního lepidla a následně je flexibilní lepidlo broušeno, stretch folie je ručně tvarována do specifických tvárů či pro výplň plochy a představivosti."
+                    },
+                    "en": {
+                        "value": "Stretch film, flexible adhesive, acrylic, leather, watch studs, chain.",
+                        "info": "On the canvas, black acrylic is coated with two layers of flexible adhesive and then the flexible adhesive is sanded, the stretch film is hand-shaped into specific faces or to fill the area and imagination."
+                    }
+                },
+                "available": false
+            },
+            {
+                "slug": "heart",
+                "category": "storytell",
+                "title": {
+                    "cz": "Srdce",
+                    "en": "Heart"
+                },
+                "subtitle": "Popis I dunno, jak se to jmenuje :)",
+                "href": "/storytell/heart",
+                "thumbnail": "/images/artworks/heart/image.webp",
+                "description": {
+                    "cz": {
+                        "text": [
+                            "Tento obraz vznikal jako druhý, kde ukončujeme depresi. Vždy, když se roztrhne mrak plný deště, přijde azuro.",
+                            "Kruh a brýle představují slepého jedince, který se kouká přímo na to, co miluje, ale stále to nevidí či nechce vidět i když to má před sebou.",
+                            "V tomto období jsem trávil čas s lidmi, kteří mi to připoměli.",
+                            "Dešťové kapky symbolizují rytmus a momenty, na které máme vzpomínat."
+                        ],
+                        "info": "Mraky jsou poskládány do obličejů/smajlíků lidí, se kterými jsem trávil čas, při tvoření tohoto obrazu."
+                    },
+                    "en": {
+                        "text": ["Long artwork description here."],
+                        "info": "?."
+                    }
+                },
+                "year": "2025",
+                "dimensions": {
+                    "cz" : {
+                        "value": "100x100x2 cm, s přesahem do prostoru: 200x118x18 cm"
+                    },
+                    "en" : {
+                        "value": "??"
+                    }
+                },
+                "medium": {
+                    "cz": {
+                        "value": "Akryl, flexibilní lepidlo, brýle z minulosti, vata, nilon a swarovsky zirkon"
+                    },
+                    "en": {
+                        "value": "??"
+                    }
+                },
+                "available": false
+            },
+            {
+                "slug": "butterfly",
+                "category": "storytell",
+                "title": {
+                    "cz": "Motýl",
+                    "en": "Butterfly"
+                },
+                "subtitle": "Popis I dunno, jak se to jmenuje :)",
+                "href": "/storytell/butterfly",
+                "thumbnail": "/images/artworks/butterfly/image.webp",
+                "description": {
+                    "cz": {
+                        "text": ["Long artwork description here. cz"],
+                        "info": "?."
+                    },
+                    "en": {
+                        "text": ["Long artwork description here."],
+                        "info": "?."
+                    }
+                },
+                "year": "2025",
+                "dimensions": {
+                    "cz" : {
+                        "value": "100x100x4 cm, s přesahem do prostoru: 108x102x12 cm"
+                    },
+                    "en" : {
+                        "value": "??",
+                        "info": "??"
+                    }
+                },
+                "medium": {
+                    "cz": {
+                        "value": "??",
+                        "info": "??"
+                    },
+                    "en": {
+                        "value": "??",
+                        "info": "??"
+                    }
+                },
+                "available": true,
+                "hasArtworkThemeSwitch": true,
+                "artworkImages": {
+                    "light": "/images/artworks/butterfly/image-light.webp",
+                    "dark": "/images/artworks/butterfly/image-dark.webp"
+                },
+                "price": {
+                    "value": "??"
+                }
+            }
+        ]
+    },
+    {
+        "title": {
+            "cz": "Kapitola 1 - Začátek příběhu",
+            "en": "Chapter 1 - Beginning of the story"
+        },
+        "description": {
+            "cz": "Kapitola 1 - qwe",
+            "en": "Chapter 1 - qwe"
+        },
+        "artworks": [
+            {
+                "slug": "road",
+                "category": "storytell",
+                "title": {
+                    "cz": "Silnice",
+                    "en": "Road"
+                },
+                "subtitle": "Popis I dunno, jak se to jmenuje :)",
+                "href": "/storytell/road",
+                "thumbnail": "/images/artworks/road/image.webp",
+                "description": {
+                    "cz": {
+                        "text": [
+                            "Obraz představuje první kapitolu příběhu - Pain for a new beginning",
+                            "Materiálně rychlý svět proti životu a jednotě. Vyobrazen rychlou jízdou v hmotném majetku, která nevyhnutělně tvoří kolizi s lidmi, kteří chtějí veřejně říct názor. Smutná část života, ale možná kdyby krom křiku byl čin, kolize by nenastala? To je jen myšlenka, bez správné odpovědi.",
+                            "Zrezlá lopata u vysazeného stromu představuje narážku na činy. Změna by byla zhmotňována rychleji.",
+                            "Člověk co se vyhýbá v protijedoucím autu je jednou z duležitých postav začátku nového příběhu."
+                        ],
+                        "info": "Postava v zeleném autu, představuje jednu z mnoha vyobrazení Pfauneli. Pfauneli je emoce, myšlenka a různé druhy osobností. Zastavuje pro potřebu vykonat pomoc, nebo našel oběť v podobě lišky? Stromy jsou stavěny do pozic, podle obrazu Change z odvětcí Consumer, podle daného měřítka, které používáme zde. První obraz, kde se tovří hlavolamy a hádanky. První záčatký pro nástroj, ktrým s vámi budeme komunikovat"
+                    },
+                    "en": {
+                        "text": [
+                            "The painting represents the first chapter of the story - Pain for a new beginning",
+                            "A materially fast world against life and unity. Depicted by a fast drive in material possessions, which inevitably creates a collision with people who want to publicly express their opinion. A sad part of life, but maybe if the scream was an action, the collision would not have occurred?",
+                            "This is just a thought, without a correct answer.",
+                            "A rusty shovel by a planted tree, this represents an allusion to actions. Change would materialize faster.",
+                            "A person who avoids an oncoming car is one of the important characters at the beginning of a new story."
+                        ],
+                        "info": "The figure in the green car represents one of the many depictions of Pfauneli. Pfauneli is an emotion, an idea and various types of personalities. Does he stop to help, or has he found a victim in the form of a fox? The trees are placed in positions, according to the image Change from the Consumer sector, according to the given scale, which we use here. The first image, where puzzles and riddles are created. The first beginnings for the tool with which we will communicate with you"
+                    }
+                },
+                "year": "2025",
+                "dimensions": {
+                    "cz" : {
+                        "value": "??",
+                        "info": "??"
+                    },
+                    "en" : {
+                        "value": "??",
+                        "info": "??"
+                    }
+                },
+                "medium": {
+                    "cz": {
+                        "value": "Dřevotříska, materiál pro tvoření modelů, 3D tisk ručně barvený, špička kristalu, hlína, hrubý písek, akryl."
+                    },
+                    "en": {
+                        "value": "Chipboard, model making material, hand-painted 3D print, crystal tip, clay, coarse sand, acrylic."
+                    }
+                },
+                "available": false,
+                "price": {
+                    "value": "100 000,- Kč"
+                }
+            },
+            {
+                "slug": "lamps",
+                "category": "storytell",
+                "title": {
+                    "cz": "Lampy",
+                    "en": "Lamps"
+                },
+                "subtitle": "Popis I dunno, jak se to jmenuje :)",
+                "href": "/storytell/lamps",
+                "thumbnail": "/images/artworks/lamps/image.webp",
+                "description": {
+                    "cz": {
+                        "text": [
+                            "Druhá kapitola je o naší otupělosti v komunikaci mezi lidmi. I když naše rychlá doba nám dává najevo, že se ženeme do nezvladatelné doby, tak i tak pokračujeme jako celek do rozdělování mezilidských vztahů.", 
+                            "Pouliční lampy hledící na lidský počin, který jako celek nefunguje. Přitom se v kontrastu za nimi odehrává tanec hejna, který dokáže tvořit i složité obrazce uplně bez chyby.",
+                            "Možná nefunguje díky našemu neoddělitelnému společníkovi, který nám sebral naše cítění.",
+                            "Dostáváme se do momentu, kdy se stává z tragédie samozřejmost a z rozpadu inovace.",
+                            "Lidskou bolest si zaznamenáváme, ale nesnažíme se natolik, abychom ji předešli. Nechceme ji léčit i když zasáhla každého z nás.",
+                            "Pomalá smrt ve ztraceném světě."
+                        ],
+                        "info": "Hejno výchází z reálné fotky pořizenou při přemýšlení této kapitoly. Jednotné a koordinované tvary přírody krásně kontrastují vůči lidskému chaosu. Každá postava držíci telefon je tlačítkem pro jednotlivé lampy. Hlník je broušen jakožto mračno, ale pod různými úhly světla jsme schovali obličeje, postavy a oči hledíci na nás. Postava vraždící lišku je osobnost, projíždějící kolem střetu. Některé tagy na lampách budou budoucími obrazy."
+                    },
+                    "en": {
+                        "text": [
+                            "The second chapter is about our dullness in communication between people. Even though our fast time shows us that we are rushing into an unmanageable time, we still continue as a whole to divide interpersonal relationships.",
+                            "Street lamps looking at a human act that does not work as a whole. Meanwhile, in contrast, behind them is the dance of a flock that can create even complex patterns completely without error.",
+                            "Maybe it does not work thanks to our inseparable companion who took away our feelings.",
+                            "We reach a moment when tragedy becomes a matter of course and the collapse becomes innovation.",
+                            "We record human pain, but we do not try hard enough to prevent it. We do not want to heal it even though it has affected each of us.",
+                            "Slow death in a lost world."
+                        ],
+                        "info": "The flock is based on a real photo taken while thinking about this chapter. The uniform and coordinated shapes of nature contrast beautifully against the human chaos. Each figure holding a phone is a button for individual lamps. The aluminum is cut as a cloud, but under different angles of light we have hidden faces, figures and eyes looking at us. The figure killing the fox is a personality, driving past the clash. Some tags on the lamps will be future images."
+                    }
+                },
+                "year": "2025",
+                "dimensions": {
+                    "cz" : {
+                        "value": "80x94x20,5 cm"
+                    },
+                    "en" : {
+                        "value": "??",
+                        "info": "??"
+                    }
+                },
+                "medium": {
+                    "cz": {
+                        "value": "Sklo, plexisklo, hliník, 3D tisk ručně malovaný, rez, elektronika."
+                    },
+                    "en": {
+                        "value": "Glass, plexiglass, aluminum, 3D printing hand-painted, rust, electronics."
+                    }
+                },
+                "available": true,
+                "hasArtworkThemeSwitch": true,
+                "artworkImages": {
+                    "light": "/images/artworks/lamps/image-light.webp",
+                    "dark": "/images/artworks/lamps/image-dark.webp"
+                },
+                "price": {
+                    "value": "160 636,- Kč",
+                    "info": {
+                        "cz": "V ceně je zahrnuta krabice pro převoz, která je speciálně tvořena pro obraz. Skladování krabice v naších prostorech, dovoz a pověšení obrazu, každoroční celková udržba a dvakrát do roka čištění, 5 let záruka, vstupy na všechny vernisáže a výstavy po celou dobu existence této značky, takže navždy.",
+                        "en": "The price includes a shipping box, which is specially made for the painting. Storage of the box in our premises, import and hanging of the painting, annual general maintenance and twice-yearly cleaning, 5-year warranty, entrance to all openings and exhibitions for the entire existence of this brand, so forever."
+                    }
+                }
+            }
+        ]
+    }
+]

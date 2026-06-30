@@ -1,0 +1,15 @@
+[
+    {
+        "id": "1",
+        "slug": "pose8",
+        "title": "Pose 1",
+        "image": "/images/models/pose8.jpg",
+        "thumbnail": "/images/models/pose8.jpg",
+        "glb": "/models/pose8.glb",
+        "description": "Pose 1.",
+        "year": "2023",
+        "dimensions": "40 × 60 cm",
+        "price": "$200",
+        "available": true
+    }
+]

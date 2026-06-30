@@ -1,0 +1,111 @@
+[
+    {
+        "slug": "handprint",
+        "title": {
+            "cz": "Otisk",
+            "en": "Handprint"
+        },
+        "subtitle": "Short description",
+        "href": "/consumer/handprint",
+        "thumbnail": "/images/artworks/handprint/image.webp",
+        "description": {
+            "cz": {
+                "text": [
+                    "Pfauneli není o jedné myšlence, je to mnoho osobností. A v tomto obraze je vyobrazena krátkodobá vražda jedné myšlenky a emoce.",
+                    "Růžová barva je použitá jako symbol jemnosti ale zároveň jako zkreslený pohled a modrá představuje krev.",
+                    "Ostrovy z flexibilního lepidla představují naše logo, které jsme vzali z jedné fotky pořízené v ateliéru, vzali jsme z ní jednotlivé linky a utvořili jsme z něj obličej, který představuje myšlenku zkresleného života, kterou jsme vzali do lesa pro vykonání její vraždy.",
+                    "Přelom, kdy přecházíme do zobrazování čehokoliv a jákéhokoliv názoru. Ve svět, kde lidé umírají a znovu se hledají.",
+                    "Od dětství, představované dětskou houpačkou na stromě, až po překážky v životě, při kterých si lidé berou život, vyobrazené oprátkou na spodním stromě.",
+                    "Tohle je mezera mezi snem který chceme a realitou kterou chceme tvořit."
+                ],
+                "info": "?."
+            },
+            "en": {
+                "text": ["QQQQQQQQQQQQQAWDHAGLKHGLSDKHG."],
+                "info": "QQQQQQQQQQQQQAWDHAGLKHGLSDKHG."
+            }
+        },
+        "year": "2025",
+        "dimensions": {
+            "cz" : {
+                "value": "70x80x2 cm, s přesahem do prostoru: 80x86x16 cm"
+            },
+            "en" : {
+                "value": "??",
+                "info": "??"
+            }
+        },
+        "medium": {
+            "cz": {
+                "value": "Akryl, flexibilní lepidlo, stretch fólie, síť do oken, hlína, větve.",
+                "info": "??"
+            },
+            "en": {
+                "value": "??",
+                "info": "??"
+            }
+        },
+        "price": {
+            "value": "22 000,- Kč",
+            "info": {
+                "cz": "V ceně je zahrnut převoz, pověšení obrazu, jednou za rok kontrola, odstranění prachu a celková kontrola.",
+                "en": "Digital print"
+            }
+        },
+        "available": false
+    },
+    {
+        "slug": "roses",
+        "title": {
+            "cz": "Růže",
+            "en": "Roses"
+        },
+        "subtitle": "Short description",
+        "href": "/consumer/roses",
+        "thumbnail": "/images/artworks/roses/image.webp",
+        "description": {
+            "cz": {
+                "text": [
+                    "Každý z nás se občas zastaví nad svými sny, které se možná zdají jako roztříštěné střepy, ale když je uchopíme, dokážeme z nich tvořit květy, které jsou nám možná dané. ",
+                    "Postava sedící a vzhlížející ke svýmu snu je jedna z osobností Pfauneli. Naděje.",
+                    "Podklad je dřevotříska s tenkou vrstvou zabarveného flexibilního lepidla. Mraky jsou tvarované a broušené z montážní pěny. Tyto podklady jsme posázeli různými květy, kus po kusu. Je zde použito přes tisíc jednotlivých okvětních lístků či květů.",
+                    "Růže na středu je lepena z rozbitého hrnku na kávu a zrcadla. Stonek je z reálné růže, kterému jsme dali bílou barvu. Listy této snové květiny jsou ručně modelované z polykarbonátu, modelovací vodě a akrylu."
+                ]
+            },
+            "en": {
+                "text": [
+                    "Each of us sometimes stops over our dreams, which may seem like shattered shards, but when we grasp them, we can create flowers from them that may be given to us.",
+                    "The figure sitting and looking up at his dream is one of Pfauneli's personalities. Hope.",
+                    "The base is chipboard with a thin layer of colored flexible glue. The clouds are shaped and sanded from mounting foam. We have planted these bases with various flowers, piece by piece. Over a thousand individual petals or flowers are used here.",
+                    "The rose in the center is a rose glued from a broken coffee mug and a mirror. The stem is from a real rose, which we have painted white. The leaves of this dream flower are hand-modeled from polycarbonate, modeling water and acrylic."
+                ]
+            }
+        },
+        "year": "2025",
+        "dimensions": {
+            "cz" : {
+                "value": "40x50x2 cm, s přesahem do prostoru: 72x56x10 cm"
+            },
+            "en" : {
+                "value": "100x100 cm +- 8cm range into space",
+                "info": "??"
+            }
+        },
+        "medium": {
+            "cz": {
+                "value": "Dřevotříska, keramika, zrcadlo, ručněmalovaný 3D tisk, stonek z růže, polykarbonát, akryl, sušené a lepidlem fixované okvětní lístky."
+            },
+            "en": {
+                "value": "Chipboard, ceramic, mirror, hand-painted 3D print, rose stem, polycarbonate, acrylic, dried and glued petals."
+            }
+        },
+        "available": false,
+        "price": {
+            "value": "60 000,- Kč",
+            "info": {
+                "cz": "V ceně je zahrnut převoz, pověšení obrazu, jednou za rok kontrola a odstranění prachu.",
+                "en": "The price includes transportation, hanging of the painting, inspection and dust removal once a year."
+            }
+        }
+    }
+]

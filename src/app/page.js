@@ -1,103 +1,204 @@
-import Image from "next/image";
+'use client';
 
-export default function Home() {
-  return (
-    <div className="font-sans grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20">
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] font-mono font-semibold px-1 py-0.5 rounded">
-              src/app/page.js
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+import { useEffect, useRef, useState } from 'react';
+import { useRouter } from 'next/navigation';
+import Image from 'next/image';
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <a
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </a>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
+function CardVisual({
+    labelSrc,
+    ornamentSrc,
+    bgColor,
+    fgColor,
+    hoverable = false,
+    alt = '',
+}) {
+    return (
+        <div
+            className="relative h-full w-full overflow-hidden border-[3px] transition-colors duration-500"
+            style={{
+                backgroundColor: bgColor,
+                borderColor: fgColor,
+            }}
+        >
+            <div className="grid h-full items-center grid-cols-[55px_minmax(0,1fr)_55px] sm:grid-cols-[75px_minmax(0,1fr)_75px] md:grid-cols-[92px_minmax(0,1fr)_92px]">
+                <div className="relative h-full">
+                    <Image
+                        src={ornamentSrc}
+                        alt=""
+                        fill
+                        className="pointer-events-none object-cover object-right scale-x-[-1]"
+                        priority
+                    />
+                </div>
+
+                <div className="relative z-10 flex h-full items-center justify-center px-4 sm:px-6 md:px-8">
+                    <div
+                        className={`relative flex w-full items-center justify-center transition-transform duration-300 ${
+                            hoverable ? 'group-hover:scale-110' : ''
+                        }`}
+                    >
+                        <Image
+                            src={labelSrc}
+                            alt={alt}
+                            width={900}
+                            height={300}
+                            priority
+                            className="pointer-events-none h-auto w-full max-w-[260px] sm:max-w-[320px] md:max-w-[360px] lg:max-w-[420px] max-h-[28%] object-contain"
+                        />
+                    </div>
+                </div>
+
+                <div className="relative h-full">
+                    <Image
+                        src={ornamentSrc}
+                        alt=""
+                        fill
+                        className="pointer-events-none object-cover object-left"
+                        priority
+                    />
+                </div>
+            </div>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
-  );
+    );
+}
+
+export default function HomePage() {
+    const cardRefs = useRef([]);
+    const [dark, setDark] = useState(false);
+    const [activeCard, setActiveCard] = useState(null);
+    const router = useRouter();
+
+    useEffect(() => {
+        const checkTheme = () => {
+            setDark(document.documentElement.classList.contains('dark-theme'));
+        };
+
+        checkTheme();
+
+        const observer = new MutationObserver(checkTheme);
+        observer.observe(document.documentElement, { attributes: true });
+
+        return () => observer.disconnect();
+    }, []);
+
+    const minDelay = 700;
+
+    const handleCardClick = (e, href, index) => {
+        e.preventDefault();
+
+        const cardEl = cardRefs.current[index];
+        if (!cardEl) return;
+
+        const rect = cardEl.getBoundingClientRect();
+        const x = e.clientX - rect.left;
+        const y = e.clientY - rect.top;
+
+        const radius = Math.max(
+            Math.hypot(x, y),
+            Math.hypot(rect.width - x, y),
+            Math.hypot(x, rect.height - y),
+            Math.hypot(rect.width - x, rect.height - y)
+        );
+
+        setActiveCard({
+            index,
+            x,
+            y,
+            radius,
+        });
+
+        setTimeout(() => {
+            router.push(href);
+        }, minDelay);
+    };
+
+    const cards = [
+        {
+            key: 'consumer',
+            href: '/consumer',
+            labelLight: '/images/headlines/consumerL.svg',
+            labelDark: '/images/headlines/consumerD.svg',
+        },
+        {
+            key: 'storytell',
+            href: '/storytell',
+            labelLight: '/images/headlines/storytellL.svg',
+            labelDark: '/images/headlines/storytellD.svg',
+        },
+        {
+            key: 'custom',
+            href: '/custom',
+            labelLight: '/images/headlines/customL.svg',
+            labelDark: '/images/headlines/customD.svg',
+        },
+    ];
+
+    const normalOrnamentSrc = dark
+        ? '/images/details/headlineDetailL.svg'
+        : '/images/details/headlineDetailD.svg';
+
+    const invertedOrnamentSrc = dark
+        ? '/images/details/headlineDetailD.svg'
+        : '/images/details/headlineDetailL.svg';
+
+    const normalBg = 'var(--background)';
+    const normalFg = 'var(--foreground)';
+
+    const invertedBg = 'var(--invertedBackground)';
+    const invertedFg = 'var(--invertedForeground)';
+
+    return (
+        <div className="h-full w-full">
+            <div className="grid h-full w-full grid-cols-1 gap-0 lg:grid-cols-3">
+                {cards.map((c, index) => {
+                    const isActive = activeCard?.index === index;
+                    const baseLabelSrc = dark ? c.labelLight : c.labelDark;
+                    const invertedLabelSrc = dark ? c.labelDark : c.labelLight;
+
+                    return (
+                        <button
+                            key={c.key}
+                            onClick={(e) => handleCardClick(e, c.href, index)}
+                            className="group block h-full w-full text-left"
+                        >
+                            <div
+                                ref={(el) => {
+                                    cardRefs.current[index] = el;
+                                }}
+                                className="relative h-full w-full overflow-hidden"
+                            >
+                                <CardVisual
+                                    labelSrc={baseLabelSrc}
+                                    alt={c.key}
+                                    ornamentSrc={normalOrnamentSrc}
+                                    bgColor={normalBg}
+                                    fgColor={normalFg}
+                                    hoverable={!isActive}
+                                />
+
+                                <div
+                                    className="pointer-events-none absolute inset-0 z-20"
+                                    style={{
+                                        clipPath: isActive
+                                            ? `circle(${activeCard.radius}px at ${activeCard.x}px ${activeCard.y}px)`
+                                            : 'circle(0px at 50% 50%)',
+                                        transition: 'clip-path 700ms ease-out',
+                                    }}
+                                >
+                                    <CardVisual
+                                        labelSrc={invertedLabelSrc}
+                                        alt={c.key}
+                                        ornamentSrc={invertedOrnamentSrc}
+                                        bgColor={invertedBg}
+                                        fgColor={invertedFg}
+                                        hoverable={false}
+                                    />
+                                </div>
+                            </div>
+                        </button>
+                    );
+                })}
+            </div>
+        </div>
+    );
 }
