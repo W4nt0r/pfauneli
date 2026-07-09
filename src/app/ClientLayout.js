@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { LanguageProvider } from '@/context/LanguageContext';
+import { AuthProvider } from '@/context/AuthContext';
 import LoadingScreen from '@/components/LoadingScreen';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -40,23 +41,25 @@ export default function ClientLayout({ children }) {
     }, []);
 
     return (
-        <LanguageProvider>
-            {showLoader && (
-                <LoadingScreen
-                    fade={canFade}
-                    onFinish={() => setShowLoader(false)}
-                />
-            )}
+        <AuthProvider>
+            <LanguageProvider>
+                {showLoader && (
+                    <LoadingScreen
+                        fade={canFade}
+                        onFinish={() => setShowLoader(false)}
+                    />
+                )}
 
-            <div className="flex min-h-screen flex-col">
-                <Navbar />
+                <div className="flex min-h-screen flex-col">
+                    <Navbar />
 
-                <main className="flex-1">
-                    {children}
-                </main>
+                    <main className="flex-1">
+                        {children}
+                    </main>
 
-                <Footer />
-            </div>
-        </LanguageProvider>
+                    <Footer />
+                </div>
+            </LanguageProvider>
+        </AuthProvider>
     );
 }

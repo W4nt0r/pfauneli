@@ -4,12 +4,18 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useLanguage } from '@/context/LanguageContext';
+import { useAuth } from '@/context/AuthContext';
+import AuthModal from '@/components/AuthModal';
 
 export default function Navbar() {
     const [dark, setDark] = useState(false);
     const [menuOpen, setMenuOpen] = useState(false);
 
     const { language, setLanguage, t } = useLanguage();
+
+    const { user, logout } = useAuth();
+    const [authOpen, setAuthOpen] = useState(false);
+    const [authMode, setAuthMode] = useState('login');
 
     useEffect(() => {
         const checkTheme = () => {
@@ -150,6 +156,58 @@ export default function Navbar() {
                         <span className="text-xl">🇬🇧</span>
                     </div>
                 </div>
+                <AuthModal
+                    open={authOpen}
+                    mode={authMode}
+                    onClose={() => setAuthOpen(false)}
+                />
+                <div className="my-2 h-px w-full bg-[var(--foreground)] opacity-40" />
+
+                    {user ? (
+                        <div className="flex flex-col gap-3 text-[var(--foreground)]">
+                            <p className="text-sm opacity-70">
+                                {language === 'cz' ? 'Přihlášen jako' : 'Logged in as'}
+                            </p>
+
+                            <p className="break-all text-lg">
+                                {user.name || user.email}
+                            </p>
+
+                            <button
+                                onClick={async () => {
+                                    await logout();
+                                    setMenuOpen(true);
+                                }}
+                                className="mt-2 border border-[var(--foreground)] px-4 py-2 transition-colors hover:bg-[var(--foreground)] hover:text-[var(--background)]"
+                            >
+                                {language === 'cz' ? 'Odhlásit' : 'Logout'}
+                            </button>
+                        </div>
+                    ) : (
+                        <div className="flex flex-col gap-3">
+                            <button
+                                onClick={() => {
+                                    setAuthMode('login');
+                                    setAuthOpen(true);
+                                    setMenuOpen(true);
+                                }}
+                                className="border border-[var(--foreground)] px-4 py-2 transition-colors hover:bg-[var(--foreground)] hover:text-[var(--background)]"
+                            >
+                                {language === 'cz' ? 'Přihlásit' : 'Login'}
+                            </button>
+
+                            <button
+                                onClick={() => {
+                                    setAuthMode('register');
+                                    setAuthOpen(true);
+                                    setMenuOpen(true);
+                                }}
+                                className="border border-[var(--foreground)] px-4 py-2 transition-colors hover:bg-[var(--foreground)] hover:text-[var(--background)]"
+                            >
+                                {language === 'cz' ? 'Registrovat' : 'Register'}
+                            </button>
+                        </div>
+                    )}
             </aside>
         </>
     );
