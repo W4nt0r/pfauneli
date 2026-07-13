@@ -17,6 +17,7 @@
 /.next/
 /out/
 /public/
+/src/context/AuthContext.js
 
 # production
 /build
