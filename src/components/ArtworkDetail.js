@@ -1,8 +1,9 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import Image from 'next/image';
 import { useLanguage } from '@/context/LanguageContext';
+import { getLocalized } from '@/lib/getLocalized';
 
 import { Cormorant_Garamond } from 'next/font/google';
 
@@ -11,39 +12,115 @@ export const cormorant = Cormorant_Garamond({
     weight: ['300', '400', '500', '600', '700'],
 });
 
-function getLocalized(value, language, fallback = '') {
-    if (!value) return fallback;
-
-    if (typeof value === 'string') {
-        return value;
-    }
-
-    return value[language] || value.en || value.cz || fallback;
-}
-
 function InfoTooltip({ text }) {
     const [open, setOpen] = useState(false);
+    const [position, setPosition] = useState({
+        left: 0,
+        top: 0,
+        placement: 'bottom',
+    });
+
+    const buttonRef = useRef(null);
+    const tooltipWidth = 224; // Tailwind w-56
+    const viewportPadding = 12;
+    const tooltipGap = 8;
+
+    const updatePosition = () => {
+        if (!buttonRef.current) return;
+
+        const rect = buttonRef.current.getBoundingClientRect();
+
+        // Start centered underneath the info icon.
+        let left = rect.left + rect.width / 2 - tooltipWidth / 2;
+
+        // Keep the tooltip inside the viewport horizontally.
+        left = Math.max(
+            viewportPadding,
+            Math.min(left, window.innerWidth - tooltipWidth - viewportPadding)
+        );
+
+        // Show above the icon if there is not enough room underneath.
+        const estimatedTooltipHeight = 130;
+        const spaceBelow = window.innerHeight - rect.bottom;
+        const placement =
+            spaceBelow < estimatedTooltipHeight + tooltipGap
+                ? 'top'
+                : 'bottom';
+
+        const top =
+            placement === 'bottom'
+                ? rect.bottom + tooltipGap
+                : rect.top - tooltipGap;
+
+        setPosition({
+            left,
+            top,
+            placement,
+        });
+    };
+
+    const showTooltip = () => {
+        updatePosition();
+        setOpen(true);
+    };
+
+    const hideTooltip = () => {
+        setOpen(false);
+    };
+
+    useEffect(() => {
+        if (!open) return;
+
+        const handlePositionChange = () => updatePosition();
+
+        window.addEventListener('resize', handlePositionChange);
+        window.addEventListener('scroll', handlePositionChange, true);
+
+        return () => {
+            window.removeEventListener('resize', handlePositionChange);
+            window.removeEventListener('scroll', handlePositionChange, true);
+        };
+    }, [open]);
 
     return (
-        <span className="group relative ml-1 inline-flex align-middle">
+        <span
+            className="relative ml-1 inline-flex align-middle"
+            onMouseEnter={showTooltip}
+            onMouseLeave={hideTooltip}
+        >
             <button
+                ref={buttonRef}
                 type="button"
-                onClick={() => setOpen(!open)}
-                onBlur={() => setOpen(false)}
+                onClick={() => {
+                    if (open) {
+                        hideTooltip();
+                    } else {
+                        showTooltip();
+                    }
+                }}
+                onBlur={hideTooltip}
                 className="flex h-4 w-4 cursor-help items-center justify-center rounded-full border border-black text-[10px] leading-none"
                 aria-label="Show information"
+                aria-expanded={open}
             >
                 i
             </button>
 
             <span
-                className={`absolute left-1/2 top-6 z-20 w-56 -translate-x-1/2 border border-black bg-white p-3 text-xs font-normal leading-relaxed text-black shadow-lg transition-opacity duration-200
-                    ${
-                        open
-                            ? 'pointer-events-auto opacity-100'
-                            : 'pointer-events-none opacity-0 group-hover:opacity-100'
-                    }
-                `}
+                className={`fixed z-50 w-56 border border-black bg-white p-3 text-xs font-normal leading-relaxed text-black shadow-lg transition-opacity duration-200 ${
+                    open
+                        ? 'pointer-events-auto opacity-100'
+                        : 'pointer-events-none opacity-0'
+                }`}
+                style={{
+                    left: `${position.left}px`,
+                    top: `${position.top}px`,
+                    transform:
+                        position.placement === 'top'
+                            ? 'translateY(-100%)'
+                            : 'none',
+                }}
+                role="tooltip"
             >
                 {text}
             </span>
@@ -229,7 +306,9 @@ export default function ArtworkDetail({
                                 <span key={index}>
                                     {paragraph}
                                     {index !== localizedDescription.text.length - 1 && <br />}
-                                    {index === localizedDescription.text.length - 1 && localizedDescription.info && InfoTooltip({ text: localizedDescription.info })}
+                                    {index === localizedDescription.text.length - 1 &&
+                                        localizedDescription.info &&
+                                        InfoTooltip({ text: localizedDescription.info })}
                                 </span>
                             ))}
                         </p>
