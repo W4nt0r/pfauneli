@@ -1,13 +1,12 @@
 [
     {
-        "slug": "handprint",
+        "slug": "change",
         "title": {
-            "cz": "Otisk",
-            "en": "Handprint"
+            "en": "Change"
         },
         "subtitle": "Short description",
-        "href": "/consumer/handprint",
-        "thumbnail": "/images/artworks/handprint/image.webp",
+        "href": "/consumer/change",
+        "thumbnail": "/images/artworks/change/image.webp",
         "description": {
             "cz": {
                 "text": [
@@ -17,12 +16,17 @@
                     "Přelom, kdy přecházíme do zobrazování čehokoliv a jákéhokoliv názoru. Ve svět, kde lidé umírají a znovu se hledají.",
                     "Od dětství, představované dětskou houpačkou na stromě, až po překážky v životě, při kterých si lidé berou život, vyobrazené oprátkou na spodním stromě.",
                     "Tohle je mezera mezi snem který chceme a realitou kterou chceme tvořit."
-                ],
-                "info": "?."
+                ]
             },
             "en": {
-                "text": ["QQQQQQQQQQQQQAWDHAGLKHGLSDKHG."],
-                "info": "QQQQQQQQQQQQQAWDHAGLKHGLSDKHG."
+                "text": [
+                    "Pfauneli is not about one idea, it is about many personalities. And in this painting, the short-term murder of one idea and emotion is depicted.",
+                    "The color pink is used as a symbol of softness but also a distorted view and blue represents blood. ",
+                    "The islands of flexible glue represent our logo, which we took from a photo taken in the studio, we took individual lines from it and made a face out of it, which represents the idea of a distorted life, which we took to the forest to commit its murder.",
+                    "A turning point, when we move to depicting anything and any opinion. In a world where people die and find themselves again.",
+                    "From childhood represented by a children's swing in a tree, to obstacles in life that cause people to take their lives, depicted by a noose on the lower tree.",
+                    "This is the gap between the dream we want and the reality we want to create."
+                ]
             }
         },
         "year": "2025",
@@ -31,38 +35,34 @@
                 "value": "70x80x2 cm, s přesahem do prostoru: 80x86x16 cm"
             },
             "en" : {
-                "value": "??",
-                "info": "??"
+                "value": "70x80x2 cm with range to space: 80x86x16 cm"
             }
         },
         "medium": {
             "cz": {
-                "value": "Akryl, flexibilní lepidlo, stretch fólie, síť do oken, hlína, větve.",
-                "info": "??"
+                "value": "Akryl, flexibilní lepidlo, stretch fólie, síť do oken, hlína, větve."
             },
             "en": {
-                "value": "??",
-                "info": "??"
+                "value": "Canvas, acrylic, flexible glue, stretch film, window net, clay, branches."
             }
         },
         "price": {
             "value": "22 000,- Kč",
             "info": {
                 "cz": "V ceně je zahrnut převoz, pověšení obrazu, jednou za rok kontrola, odstranění prachu a celková kontrola.",
-                "en": "Digital print"
+                "en": "The price includes transportation, hanging of the painting, inspection and dust removal once a year."
             }
         },
         "available": false
     },
     {
-        "slug": "roses",
+        "slug": "a-look-into-a-dream",
         "title": {
-            "cz": "Růže",
-            "en": "Roses"
+            "en": "A look into a dream"
         },
         "subtitle": "Short description",
-        "href": "/consumer/roses",
-        "thumbnail": "/images/artworks/roses/image.webp",
+        "href": "/consumer/a-look-into-a-dream",
+        "thumbnail": "/images/artworks/a-look-into-a-dream/image.webp",
         "description": {
             "cz": {
                 "text": [
@@ -87,8 +87,7 @@
                 "value": "40x50x2 cm, s přesahem do prostoru: 72x56x10 cm"
             },
             "en" : {
-                "value": "100x100 cm +- 8cm range into space",
-                "info": "??"
+                "value": "40x50x2 cm with range to space: 72x56x10 cm"
             }
         },
         "medium": {

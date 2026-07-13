@@ -1,24 +1,41 @@
 [
     {
         "title": {
-            "cz": "Kapitola 0 - Vznik PFAUNELI",
-            "en": "Chapter 0 - Origin of PFAUNELI"
+            "cz": "Kapitola 0 - Uzavření",
+            "en": "Chapter 0 - Closure"
         },
         "description": {
-            "cz": "Jestli chceš i něco tady, nebo jen nadpis",
-            "en": "qq"
+            "cz": [
+                "Uzavření a přemýšlení. Začátek naší cesty a formovaní naších myšlenek. Zde se formoval celý koncept. Tři obrazy představují otázky na nás a naše emoce, na věci a momenty, které nás dělají šťastnými a na to, co se děje kolem nás.", 
+                "První etapy a otázky, které povedou základní pilíře v naší cestě.",
+                "V tomto čase vznikal nápad, který má rozvíjet debaty a spojovat lidi.",
+                "Chápat názory a pohledy nás všech.",
+                "Brát z nich každý detail a pochopit jej.",
+                "Chceme vytvořit komunitu která bude pomocí umění komunikovat mezi sebou.",
+                "Předávat si názory a řešit problémy pochopením, společnost by se měla spojovat a fungovat jako celek.",
+                "To je Pfauneli."
+            ],
+            "en": [
+                "Closing and reflection. The beginning of our journey and the formation of our thoughts. This is where the whole concept took shape. The three paintings represent questions about us and our emotions, about things and moments that make us happy and about what is happening around us.",
+                "The first stages and questions that will guide the basic pillars of our journey.",
+                "At this time, an idea was born that should develop debates and connect people.",
+                "Understand the opinions and views of all of us.",
+                "Take every detail from them and understand it.",
+                "We want to create a community that will communicate with each other through art.",
+                "Exchange opinions and solve problems through understanding, society should connect and function as a whole.",
+                "That is Pfauneli."
+            ]
         },
         "artworks": [
             {
-                "slug": "appedmm",
+                "slug": "apfdmm",
                 "category": "storytell",
                 "title": {
-                    "cz": "APPEDMM",
-                    "en": "APPEDMM"
+                    "en": "AP.F.D.MM"
                 },
                 "subtitle": "Popis I dunno, jak se to jmenuje :)",
-                "href": "/storytell/appedmm",
-                "thumbnail": "/images/artworks/appedmm/image.webp",
+                "href": "/storytell/apfdmm",
+                "thumbnail": "/images/artworks/apfdmm/image.webp",
                 "description": {
                     "cz": {
                         "text": [
@@ -47,31 +64,30 @@
                         "value": "100x100x2 cm, s přesahem do prostoru: 127x107x9 cm"
                     },
                     "en" : {
-                        "value": "100x100cm +- 8cm range into space"
+                        "value": "100x100x2 cm with range to space: 127x107x9 cm"
                     }
                 },
                 "medium": {
                     "cz": {
-                        "value": "Stretch folie, flexibilní lepidlo, akryl, kůže, cvočky hodinek, řetěz",
+                        "value": "Plátno, strečová fólie, flexibilní lepidlo, akryl, kůže, hodinkové cvočky, řetízek.",
                         "info": "Na plátně je černý akryl potáhnutý dvěmi vrstvami flexibilního lepidla a následně je flexibilní lepidlo broušeno, stretch folie je ručně tvarována do specifických tvárů či pro výplň plochy a představivosti."
                     },
                     "en": {
-                        "value": "Stretch film, flexible adhesive, acrylic, leather, watch studs, chain.",
+                        "value": "Canvas, stretch film, flexible adhesive, acrylic, leather, watch studs, chain.",
                         "info": "On the canvas, black acrylic is coated with two layers of flexible adhesive and then the flexible adhesive is sanded, the stretch film is hand-shaped into specific faces or to fill the area and imagination."
                     }
                 },
                 "available": false
             },
             {
-                "slug": "heart",
+                "slug": "le-dilemme-de-la-pluie",
                 "category": "storytell",
                 "title": {
-                    "cz": "Srdce",
-                    "en": "Heart"
+                    "en": "Le dilemme de la pluie"
                 },
                 "subtitle": "Popis I dunno, jak se to jmenuje :)",
-                "href": "/storytell/heart",
-                "thumbnail": "/images/artworks/heart/image.webp",
+                "href": "/storytell/le-dilemme-de-la-pluie",
+                "thumbnail": "/images/artworks/le-dilemme-de-la-pluie/image.webp",
                 "description": {
                     "cz": {
                         "text": [
@@ -83,8 +99,13 @@
                         "info": "Mraky jsou poskládány do obličejů/smajlíků lidí, se kterými jsem trávil čas, při tvoření tohoto obrazu."
                     },
                     "en": {
-                        "text": ["Long artwork description here."],
-                        "info": "?."
+                        "text": [
+                            "This painting was created as the second one, where a depressive moment ended. Whenever a cloud full of rain breaks, sunshine comes.",
+                            "The circle and glasses represent a blind individual who looks directly at what he loves, but still does not see it or does not want to see it even though it is in front of him.",
+                            "During this period, I spent time with people who reminded me of this.",
+                            "The raindrops symbolize the rhythm and moments that we are supposed to remember."
+                        ],
+                        "info": "The clouds are minimalistically arranged into the faces/smileys of the people I spent time with while creating this painting."
                     }
                 },
                 "year": "2025",
@@ -93,37 +114,54 @@
                         "value": "100x100x2 cm, s přesahem do prostoru: 200x118x18 cm"
                     },
                     "en" : {
-                        "value": "??"
+                        "value": "100x100x2 cm with range to space: 200x118x18 cm"
                     }
                 },
                 "medium": {
                     "cz": {
-                        "value": "Akryl, flexibilní lepidlo, brýle z minulosti, vata, nilon a swarovsky zirkon"
+                        "value": "Plátno, akryl, flexibilní lepidlo, brýle z minulosti, vata, nylon a zirkony Swarovski"
                     },
                     "en": {
-                        "value": "??"
+                        "value": "Canvas, acrylic, flexible glue, glasses from the past, cotton wool, nylon and Swarovski zirconia"
                     }
                 },
                 "available": false
             },
             {
-                "slug": "butterfly",
+                "slug": "minor",
                 "category": "storytell",
                 "title": {
-                    "cz": "Motýl",
-                    "en": "Butterfly"
+                    "en": "Minor"
                 },
                 "subtitle": "Popis I dunno, jak se to jmenuje :)",
-                "href": "/storytell/butterfly",
-                "thumbnail": "/images/artworks/butterfly/image.webp",
+                "href": "/storytell/minor",
+                "thumbnail": "/images/artworks/minor/image.webp",
                 "description": {
                     "cz": {
-                        "text": ["Long artwork description here. cz"],
-                        "info": "?."
+                        "text": [
+                            "Obraz velmi jednoduše odráží jemnost a dokonalost přírody oproti lidskému chaotickému počinu.",
+                            "Kde šepot motýlích křídel provází ticho plné smrti.",
+                            "Mezi barvou která hřeje a nocí co chlad nese. ",
+                            "Proč dochází k přehlížení jednoduché krásy, kterou máme každý den kolem sebe. ",
+                            "Každý z nás tuto chybu dělá a i když se snažíme vyhnout realitě, odraz střepů v naší paměti dohání myšlenky.",
+                            "Stopy zanecháváme při bodnutí se o trn, o který v průběhu cesty zavádíme. ",
+                            "Chyba barev a různorodosti. ",
+                            "Jednoduchost pohledu je smrtí v realitě."
+                        ],
+                        "info": "Celý vizuál je situován podle výhledu na Bílé hoře. Dominantu ve výhledu tvoří komín ze spalovny. Příroda a lidé. Krásný a jednoduchý kontrast. Každý střep se s žádným jiným neprotíná středem, každý má vlastní místo. Stejně jako mi lidé, jen to musíme najít, i když je realita roztříštěna. Některé střepy rozložením parafrázuji na obraz Le dilemme de la pliue. Ve spodní části obrazu se ukrývá slovo, tvoří jej dominantní linky ve spodní části obrazu. Je potřeba zrcadlit a kreslit realitu, která je mezi námi ale není viděna. V kouři a západu je schovano Z - 5. Zpět. Vždy se koukat zpět, proč se stalo něco a jak tomu předejít."
                     },
                     "en": {
-                        "text": ["Long artwork description here."],
-                        "info": "?."
+                        "text": [
+                            "The painting very simply reflects the delicacy and perfection of nature compared to human chaotic action.",
+                            "Where the whisper of butterfly wings is accompanied by a silence full of death.",
+                            "Between the color that warms and the night that carries the cold. ",
+                            "Why is there a disregard for the simple beauty that we have around us every day. ",
+                            "Each of us makes this mistake and even if we try to avoid reality, the reflection of the shards in our memory catches up with thoughts.",
+                            "We leave traces when we prick ourselves on a thorn that we stumble over during the journey. ",
+                            "The mistake of colors and diversity. ",
+                            "Simplicity of view is death in reality."
+                        ],
+                        "info": "The entire visual is situated according to the view on Bílá hora. The dominant in the view is the chimney from the incinerator. Nature and people. Beautiful and simple contrast. Each shard does not intersect with any other in the middle, each has its own place. Just like us people, we just have to find it, even if reality is fragmented. By arranging some of the shards, I paraphrase the painting le dilemme de la pliue. A word is hidden in the lower part of the painting, it is formed by the dominant lines in the lower part of the painting. It is necessary to mirror and draw the reality that is among us but not seen. In the smoke and sunset, Z - 5 is hidden. Back. Always looking back, why something happened and how to prevent it."
                     }
                 },
                 "year": "2025",
@@ -132,52 +170,61 @@
                         "value": "100x100x4 cm, s přesahem do prostoru: 108x102x12 cm"
                     },
                     "en" : {
-                        "value": "??",
-                        "info": "??"
+                        "value": "100x100x4 cm with range to space: 108x102x12 cm"
                     }
                 },
                 "medium": {
                     "cz": {
-                        "value": "??",
-                        "info": "??"
+                        "value": "Plátno, akryl, pastel, vata, flexibilní lepidlo, táhla, sklo, zrcadlo, motýli, diody, květiny v resinu."
                     },
                     "en": {
-                        "value": "??",
-                        "info": "??"
+                        "value": "Canvas, acrylic, pastel, cotton wool, flexible glue, rods, glass, mirror, butterflies, diodes, flowers in resin."
                     }
                 },
                 "available": true,
                 "hasArtworkThemeSwitch": true,
                 "artworkImages": {
-                    "light": "/images/artworks/butterfly/image-light.webp",
-                    "dark": "/images/artworks/butterfly/image-dark.webp"
+                    "light": "/images/artworks/minor/image-light.webp",
+                    "dark": "/images/artworks/minor/image-dark.webp"
                 },
                 "price": {
-                    "value": "??"
+                    "value": "142 000,- Kč",
+                    "info": {
+                        "cz": "V ceně je zahrnuta krabice pro převoz, která je speciálně tvořena pro obraz. Rovněž je v ceně zahrnuta nabíječka na baterky. Skladování krabice v naších prostorech, dovoz a pověšení obrazu, každoroční celková udržba a dvakrát do roka čištění, 5 let záruka, vstupy na všechny vernisáže a výstavy po celou dobu existence této značky, takže navždy.",
+                        "en": "The price includes a shipping box, which is specially made for the painting. In the price, there is also a battery charger included. Storage of the box in our premises, import and hanging of the painting, annual general maintenance and twice-yearly cleaning, 5-year warranty, entrance to all openings and exhibitions for the entire existence of this brand, so forever."
+                    }
                 }
             }
         ]
     },
     {
         "title": {
-            "cz": "Kapitola 1 - Začátek příběhu",
-            "en": "Chapter 1 - Beginning of the story"
+            "cz": "Kapitola 1 - Úpadek",
+            "en": "Chapter 1 - Decline"
         },
         "description": {
-            "cz": "Kapitola 1 - qwe",
-            "en": "Chapter 1 - qwe"
+            "cz": [
+                "Tématem jsme my a naše společenské slabosti, které akceptujeme jako náš každodenní chléb.",
+                "Trend který si upevňujeme společně.",
+                "Pokrok zpět a níž."
+            ],
+            "en": [
+                "The theme is us and our social weaknesses, which we accept as our daily bread.",
+                "The trend that we consolidate together.",
+                "Blindness in seeing how we humanly divide ourselves.", 
+                "Progress backward and downward."
+            ]
         },
         "artworks": [
             {
-                "slug": "road",
+                "slug": "accident",
                 "category": "storytell",
                 "title": {
-                    "cz": "Silnice",
-                    "en": "Road"
+                    "en": "Accident"
                 },
                 "subtitle": "Popis I dunno, jak se to jmenuje :)",
-                "href": "/storytell/road",
-                "thumbnail": "/images/artworks/road/image.webp",
+                "href": "/storytell/accident",
+                "thumbnail": "/images/artworks/accident/image.webp",
                 "description": {
                     "cz": {
                         "text": [
@@ -224,15 +271,14 @@
                 }
             },
             {
-                "slug": "lamps",
+                "slug": "pocket-glow",
                 "category": "storytell",
                 "title": {
-                    "cz": "Lampy",
-                    "en": "Lamps"
+                    "en": "Pocket glow"
                 },
                 "subtitle": "Popis I dunno, jak se to jmenuje :)",
-                "href": "/storytell/lamps",
-                "thumbnail": "/images/artworks/lamps/image.webp",
+                "href": "/storytell/pocket-glow",
+                "thumbnail": "/images/artworks/pocket-glow/image.webp",
                 "description": {
                     "cz": {
                         "text": [
@@ -263,29 +309,28 @@
                         "value": "80x94x20,5 cm"
                     },
                     "en" : {
-                        "value": "??",
-                        "info": "??"
+                        "value": "80x94x20,5 cm"
                     }
                 },
                 "medium": {
                     "cz": {
-                        "value": "Sklo, plexisklo, hliník, 3D tisk ručně malovaný, rez, elektronika."
+                        "value": "Sklo, plexisklo, hliník, 3D tisk ručně malovaný, rez, elektronika, kostra telefonu."
                     },
                     "en": {
-                        "value": "Glass, plexiglass, aluminum, 3D printing hand-painted, rust, electronics."
+                        "value": "Glass, plexiglass, aluminum, 3D printing hand painted, rust, electronics, phone shell."
                     }
                 },
                 "available": true,
                 "hasArtworkThemeSwitch": true,
                 "artworkImages": {
-                    "light": "/images/artworks/lamps/image-light.webp",
-                    "dark": "/images/artworks/lamps/image-dark.webp"
+                    "light": "/images/artworks/pocket-glow/image-light.webp",
+                    "dark": "/images/artworks/pocket-glow/image-dark.webp"
                 },
                 "price": {
                     "value": "160 636,- Kč",
                     "info": {
-                        "cz": "V ceně je zahrnuta krabice pro převoz, která je speciálně tvořena pro obraz. Skladování krabice v naších prostorech, dovoz a pověšení obrazu, každoroční celková udržba a dvakrát do roka čištění, 5 let záruka, vstupy na všechny vernisáže a výstavy po celou dobu existence této značky, takže navždy.",
-                        "en": "The price includes a shipping box, which is specially made for the painting. Storage of the box in our premises, import and hanging of the painting, annual general maintenance and twice-yearly cleaning, 5-year warranty, entrance to all openings and exhibitions for the entire existence of this brand, so forever."
+                        "cz": "V ceně je zahrnuta krabice pro převoz, která je speciálně tvořena pro obraz. Rovněž je v ceně zahrnuta nabíječka na baterky. Skladování krabice v naších prostorech, dovoz a pověšení obrazu, každoroční celková udržba a dvakrát do roka čištění, 5 let záruka, vstupy na všechny vernisáže a výstavy po celou dobu existence této značky, takže navždy.",
+                        "en": "The price includes a shipping box, which is specially made for the painting. In the price, there is also a battery charger included. Storage of the box in our premises, import and hanging of the painting, annual general maintenance and twice-yearly cleaning, 5-year warranty, entrance to all openings and exhibitions for the entire existence of this brand, so forever."
                     }
                 }
             }
