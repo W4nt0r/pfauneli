@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import { getLocalized } from '@/lib/getLocalized';
 
 import { useLanguage } from '@/context/LanguageContext';
 
@@ -142,6 +143,8 @@ export default function StorytellPage({
         ? titleSrcDark
         : titleSrcLight;
 
+    const localizedChapterDescriptions = getLocalized()
+
     return (
         <main className="relative min-h-screen overflow-hidden bg-white transition-colors duration-500">
             <SideDetail side="left" src={detailSrc} />
@@ -186,7 +189,9 @@ export default function StorytellPage({
 
                                 {chapter.description && (
                                     <p className="mx-auto mt-5 max-w-2xl text-base leading-relaxed text-neutral-700">
-                                        {getText(chapter.description)}
+                                        {getLocalized(chapter.description, language).map((text, index) => (
+                                            <span key={index}>{text}<br /></span>
+                                        ))}
                                     </p>
                                 )}
                             </div>
