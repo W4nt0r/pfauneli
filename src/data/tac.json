@@ -1,0 +1,759 @@
+{
+    "cz": {
+        "title": "Obchodní podmínky",
+        "description": [
+            "Obchodní společnosti Pfauneli s.r.o.",
+            "Se sídlem Kamenačky 3828/55, Židenice (Brno-Židenice), 636 00 Brno",
+            "identifikační číslo: 24654370",
+            "zapsané v obchodním rejstříku vedeném pod značkou C 150875/KSBR Krajským soudem v Brně pro prodej autorských děl prostřednictvím webu."
+        ],
+        "sections": [
+            {
+                "title": "UŽIVATELSKÝ ÚČET",
+                "subsections": [
+                    {
+                        "text": "Na základě registrace provedené na internetových stránkách prodávajícího může kupující přistupovat ke svému uživatelskému účtu, jehož prostřednictvím může zejména spravovat své osobní údaje, sledovat historii objednávek a využívat další funkce internetového obchodu."
+                    },
+                    {
+                        "text": "Při registraci uživatelského účtu je kupující povinen uvádět pravdivé, úplné a aktuální údaje. V případě jejich změny je kupující povinen tyto údaje bez zbytečného odkladu aktualizovat."
+                    },
+                    {
+                        "text": "Přístup k uživatelskému účtu je zabezpečen uživatelským jménem a heslem. Kupující je povinen zachovávat mlčenlivost o přístupových údajích a přijmout přiměřená opatření k jejich ochraně před zneužitím."
+                    },
+                    {
+                        "text": "Kupující není oprávněn umožnit využívání svého uživatelského účtu třetím osobám."
+                    },
+                    {
+                        "text": "Prodávající je oprávněn uživatelský účet zrušit zejména v případě, že kupující poruší své povinnosti vyplývající z kupní smlouvy nebo těchto obchodních podmínek, nebo pokud nebude uživatelský účet využíván po dobu delší než 24 měsíců."
+                    },
+                    {
+                        "text": "Prodávající nenese odpovědnost za dočasnou nedostupnost uživatelského účtu způsobenou technickou údržbou, aktualizací systému nebo okolnostmi, které nemůže rozumně ovlivnit."
+                    }
+                ]
+            },
+            {
+                "title": "UZAVŘENÍ KUPNÍ SMLOUVY",
+                "subsections": [
+                    {
+                        "text": "Veškerá prezentace autorských děl umístěná na internetových stránkách prodávajícího má informativní charakter a nepředstavuje návrh na uzavření smlouvy ve smyslu příslušných ustanovení občanského zákoníku."
+                    },
+                    {
+                        "text": "Odesláním objednávky kupující potvrzuje, že se seznámil s těmito obchodními podmínkami a zavazuje se jimi řídit."
+                    },
+                    {
+                        "text": "Kupní smlouva vzniká okamžikem přijetí objednávky prodávajícím. Prodávající si vyhrazuje právo objednávku odmítnout, zejména pokud došlo ke zjevné chybě v ceně, technických údajích, dostupnosti díla nebo pokud již bylo nabízené dílo prodáno."
+                    },
+                    {
+                        "text": "Vzhledem k tomu, že prodávající nabízí převážně originální autorská díla vytvořená v jediném exempláři, bere kupující na vědomí, že po jejich prodeji nemusí být možné objednávku nahradit jiným dílem stejného charakteru."
+                    },
+                    {
+                        "text": "Pokud to povaha konkrétního díla vyžaduje, mohou být technické podmínky instalace, přepravy, předání nebo další individuální podmínky sjednány samostatně v kupní smlouvě nebo v předávacím protokolu. Taková ujednání mají přednost před těmito obchodními podmínkami."
+                    }
+                ]
+            },
+            {
+                "title": "CENA DÍLA A PLATEBNÍ PODMÍNKY",
+                "subsections": [
+                    {
+                        "text": "Kupní cena jednotlivých autorských děl je uvedena na internetových stránkách prodávajícího nebo je stanovena individuální cenovou nabídkou."
+                    },
+                    {
+                        "text": "Kupní cena zahrnuje pouze položky výslovně uvedené při objednávce nebo v kupní smlouvě. Náklady na dopravu, odbornou manipulaci, instalaci, pojištění při přepravě nebo další individuálně sjednané služby nejsou součástí kupní ceny, pokud není výslovně uvedeno jinak."
+                    },
+                    {
+                        "text": "Kupní cenu lze uhradit zejména:",
+                        "list": [
+                            "bezhotovostním převodem na bankovní účet prodávajícího,",
+                            "v hotovosti při osobním převzetí, pokud to prodávající umožní,",
+                            "jiným způsobem, na kterém se smluvní strany písemně dohodnou."
+                        ]
+                    },
+                    {
+                        "text": "Není-li sjednáno jinak, je kupní cena splatná před předáním díla."
+                    },
+                    {
+                        "text": "Prodávající je oprávněn požadovat před zahájením výroby, dokončením díla, rezervací originálu nebo před zajištěním individuální přepravy přiměřenou zálohu. Výše zálohy bude kupujícímu sdělena před uzavřením kupní smlouvy."
+                    },
+                    {
+                        "text": "Kupní cena je považována za uhrazenou okamžikem připsání příslušné částky na bankovní účet prodávajícího nebo převzetím hotovosti prodávajícím."
+                    },
+                    {
+                        "text": "Daňový doklad vystaví prodávající po přijetí platby nebo po předání díla v souladu s příslušnými právními předpisy."
+                    }
+                ]
+            },
+            {
+                "title": "DODÁNÍ DÍLA",
+                "subsections": [
+                    {
+                        "text": "Prodávající předá kupujícímu autorské dílo způsobem sjednaným v kupní smlouvě, zejména osobním předáním, prostřednictvím prodávajícího nebo jím pověřené osoby."
+                    },
+                    {
+                        "text": "Není-li sjednáno jinak, je termín dodání individuální a závisí na charakteru díla, jeho dokončení, přípravě přepravy a dalších okolnostech."
+                    },
+                    {
+                        "text": "Součástí předání může být zejména certifikát pravosti, předávací protokol, návod k manipulaci a další dokumentace vztahující se ke konkrétnímu dílu."
+                    }
+                ]
+            },
+            {
+                "title": "MANIPULACE, PŘEPRAVA A INSTALACE AUTORSKÉHO DÍLA",
+                "subsections": [
+                    {
+                        "text": "Každé autorské dílo je originálním, jedinečným a neopakovatelným uměleckým objektem vytvořeným v jediném exempláři. Vzhledem ke své konstrukci, použitým materiálům, hmotnosti, technologii výroby a vysoké hodnotě vyžaduje odbornou manipulaci, přepravu, skladování a instalaci."
+                    },
+                    {
+                        "text": "Součástí každého díla je přepravní systém a transportní obal navržený výhradně pro konkrétní dílo. Tento systém představuje nedílnou součást ochrany díla a je určen výhradně pro jeho bezpečný transport."
+                    },
+                    {
+                        "text": "Kupující bere na vědomí, že jakákoli manipulace, přemístění, přeprava, demontáž nebo opětovná instalace provedená bez účasti prodávajícího nebo osoby jím výslovně pověřené představuje zvýšené riziko nevratného poškození díla."
+                    },
+                    {
+                        "text": "Prodávající proto poskytuje služby přepravy, manipulace, instalace, deinstalace a opětovné instalace výhradně prostřednictvím svých zaměstnanců nebo smluvně pověřených osob. Termín a podmínky těchto služeb jsou sjednávány individuálně."
+                    },
+                    {
+                        "text": "V případě, že kupující zajistí manipulaci nebo přepravu prostřednictvím jiné osoby nebo ji provede vlastními silami, přechází veškerá odpovědnost za stav díla od okamžiku převzetí k takové manipulaci na kupujícího. Prodávající nenese odpovědnost za jakékoli mechanické, konstrukční, materiálové ani estetické poškození vzniklé v souvislosti s neautorizovanou manipulací nebo přepravou."
+                    },
+                    {
+                        "text": "Dojde-li k neautorizované manipulaci, přepravě nebo instalaci, zaniká odpovědnost prodávajícího za vady nebo poškození, která mohou být s touto manipulací přímo či nepřímo spojena. Toto ustanovení se nedotýká práv kupujícího vyplývajících z kogentních ustanovení právních předpisů."
+                    },
+                    {
+                        "text": "Kupující se zavazuje uchovávat originální transportní obal a přepravní prvky v odpovídajícím stavu. V případě jejich ztráty nebo poškození zajistí prodávající výrobu nového transportního systému za cenu stanovenou individuální cenovou nabídkou."
+                    },
+                    {
+                        "text": "V zájmu zachování autenticity, hodnoty, bezpečnosti a dlouhodobé životnosti díla doporučuje prodávající, aby jakýkoli budoucí převoz, stěhování, zápůjčka, výstava nebo změna umístění byla vždy předem konzultována s prodávajícím. "
+                    }
+                ]
+            },
+            {
+                "title": "PŘECHOD NEBEZPEČÍ ŠKODY NA DÍLE",
+                "subsections": [
+                    {
+                        "text": "Nebezpečí škody na díle přechází na kupujícího okamžikem jeho převzetí."
+                    },
+                    {
+                        "text": "Je-li součástí dodání odborná instalace prováděná prodávajícím nebo jím pověřenou osobou, přechází nebezpečí škody na kupujícího okamžikem dokončení instalace a podpisu předávacího protokolu, není-li mezi stranami sjednáno jinak."
+                    },
+                    {
+                        "text": "Od okamžiku přechodu nebezpečí škody odpovídá kupující za ochranu, zabezpečení, skladování a běžnou péči o dílo."
+                    },
+                    {
+                        "text": "Přechod nebezpečí škody není dotčen výhradou vlastnického práva podle článku VII."
+                    }
+                ]
+            },
+            {
+                "title": "VÝHRADA VLASTNICKÉHO PRÁVA",
+                "subsections": [
+                    {
+                        "text": "Vlastnické právo k autorskému dílu přechází na kupujícího až úplným zaplacením celé kupní ceny a všech souvisejících sjednaných plateb."
+                    },
+                    {
+                        "text": "Do okamžiku přechodu vlastnického práva není kupující oprávněn převést vlastnické právo k dílu na třetí osobu ani jej zatížit právy třetích osob způsobem, který by mohl ohrozit práva prodávajícího."
+                    },
+                    {
+                        "text": "Přechodem vlastnického práva nejsou dotčena autorská práva prodávajícího."
+                    }
+                ]
+            },
+            {
+                "title": "ODPOVĚDNOST ZA VADY A REKLAMAČNÍ PODMÍNKY ",
+                "subsections": [
+                    {
+                        "text": "Prodávající odpovídá za to, že dílo při převzetí odpovídá kupní smlouvě a nemá vady, které by bránily jeho obvyklému nebo smluvenému užívání."
+                    },
+                    {
+                        "text": "Kupující je povinen při převzetí dílo prohlédnout a případné zjevné vady bez zbytečného odkladu oznámit prodávajícímu."
+                    },
+                    {
+                        "text": "Reklamaci lze uplatnit písemně nebo elektronicky s uvedením popisu vady a doložením fotodokumentace, pokud je to vzhledem k povaze vady možné."
+                    },
+                    {
+                        "text": "Prodávající neodpovídá za vady nebo poškození vzniklá zejména:",
+                        "list": [
+                            "běžným opotřebením,",
+                            "nesprávnou manipulací,",
+                            "neodbornou instalací,",
+                            "nevhodným skladováním,",
+                            "působením nepřiměřené vlhkosti, teploty nebo přímého slunečního záření,",
+                            "zásahem třetí osoby,",
+                            "jiným porušením pokynů prodávajícího."
+                        ]
+                    },
+                    {
+                        "text": "Posouzení reklamace může vyžadovat osobní prohlídku díla prodávajícím nebo jím pověřenou osobou."
+                    },
+                    {
+                        "text": "Tímto článkem nejsou dotčena práva kupujícího, která nelze podle právních předpisů vyloučit ani omezit."
+                    }
+                ]
+            },
+            {
+                "title": "ODSTOUPENÍ OD SMLOUVY",
+                "subsections": [
+                    {
+                        "text": "Práva kupujícího na odstoupení od smlouvy se řídí příslušnými ustanoveními občanského zákoníku."
+                    },
+                    {
+                        "text": "Je-li kupujícím spotřebitel, může od smlouvy uzavřené distančním způsobem odstoupit ve lhůtě stanovené právními předpisy, pokud zákon nestanoví jinak."
+                    },
+                    {
+                        "text": "Kupující bere na vědomí, že právo odstoupit od smlouvy se nevztahuje na případy stanovené právními předpisy, zejména na zboží nebo díla zhotovená podle jeho individuálních požadavků nebo přizpůsobená jeho osobním potřebám."
+                    },
+                    {
+                        "text": "Prodávající je oprávněn od smlouvy odstoupit zejména v případě podstatného porušení smlouvy kupujícím nebo v případech stanovených právními předpisy."
+                    }
+                ]
+            },
+            {
+                "title": "OCHRANA  AUTORSKÝCH PRÁV A ZÁKAZ REPRODUKCE DÍLA",
+                "subsections": [
+                    {
+                        "text": "Veškerá autorská práva k nabízeným dílům náleží prodávajícímu nebo příslušnému autorovi a jsou chráněna příslušnými právními předpisy."
+                    },
+                    {
+                        "text": "Zakoupením autorského díla přechází na kupujícího vlastnické právo k hmotnému nosiči díla, nikoliv autorská majetková práva ani licence k jeho užití, není-li výslovně sjednáno jinak."
+                    },
+                    {
+                        "text": "Kupující není oprávněn bez předchozího písemného souhlasu prodávajícího zejména:",
+                        "list": [
+                            "pořizovat rozmnoženiny díla za účelem obchodního využití,",
+                            "vytvářet odvozená díla,",
+                            "využívat dílo pro komerční propagaci,",
+                            "poskytovat licence třetím osobám,",
+                            "jinak zasahovat do autorských práv prodávajícího."
+                        ]
+                    },
+                    {
+                        "text": "Kupující je oprávněn pořizovat fotografie díla pro svou osobní potřebu, pokud tím nejsou dotčena autorská práva prodávajícího."
+                    }
+                ]
+            },
+            {
+                "title": "OCHRANA OSOBNÍCH ÚDAJŮ",
+                "subsections": [
+                    {
+                        "text": "Prodávající zpracovává osobní údaje kupujícího v souladu s příslušnými právními předpisy, zejména s nařízením GDPR a souvisejícími právními předpisy."
+                    },
+                    {
+                        "text": "Podrobné informace o rozsahu, účelu a způsobu zpracování osobních údajů jsou uvedeny v samostatném dokumentu „Zásady zpracování osobních údajů“, zveřejněném na internetových stránkách prodávajícího."
+                    }
+                ]
+            },
+            {
+                "title": "ROZHODNÉ PRÁVO A MIMOSOUDNÍ ŘEŠENÍ",
+                "subsections": [
+                    {
+                        "text": "Právní vztahy vzniklé na základě kupní smlouvy a těchto obchodních podmínek se řídí právním řádem České republiky."
+                    },
+                    {
+                        "text": "Je-li kupujícím spotřebitel, může se v případě vzniku spotřebitelského sporu obrátit na příslušný subjekt mimosoudního řešení spotřebitelských sporů, kterým je."
+                    },
+                    {
+                        "text": "Tím nejsou dotčena práva smluvních stran obrátit se na příslušný soud."
+                    }
+                ]
+            },
+            {
+                "title": "ZÁVĚREČNÁ USTANOVENÍ",
+                "subsections": [
+                    {
+                        "text": "Tyto obchodní podmínky tvoří nedílnou součást kupní smlouvy uzavírané mezi prodávajícím a kupujícím."
+                    },
+                    {
+                        "text": "Individuální ujednání obsažená v kupní smlouvě, předávacím protokolu nebo jiném písemném dokumentu mají přednost před ustanoveními těchto obchodních podmínek."
+                    },
+                    {
+                        "text": "Pokud se některé ustanovení těchto obchodních podmínek stane neplatným nebo neúčinným, není tím dotčena platnost ani účinnost ostatních ustanovení. "
+                    },
+                    {
+                        "text": "Prodávající je oprávněn obchodní podmínky přiměřeně měnit nebo doplňovat. Na již uzavřené kupní smlouvy se použije znění obchodních podmínek účinné ke dni uzavření příslušné kupní smlouvy."
+                    },
+                    {
+                        "text": "Tyto obchodní podmínky nabývají účinnosti dnem jejich zveřejnění na internetových stránkách prodávajícího, není-li uvedeno datum pozdější."
+                    }
+                ]
+            },
+            {
+                "title": "CERTIFIKÁT PRAVOSTI",
+                "subsections": [
+                    {
+                        "text": "Je-li to u konkrétního autorského díla uvedeno, je součástí jeho předání certifikát pravosti vydaný prodávajícím."
+                    },
+                    {
+                        "text": "Certifikát pravosti potvrzuje původ díla, jeho jedinečnost a identifikaci. Nejedná se však o znalecký posudek ani ocenění tržní hodnoty díla."
+                    },
+                    {
+                        "text": "Ztrátu nebo poškození certifikátu je kupující povinen bez zbytečného odkladu oznámit prodávajícímu. Vydání duplikátu certifikátu je možné pouze po individuálním posouzení a za podmínek stanovených prodávajícím."
+                    },
+                    {
+                        "text": "Prodávající si vyhrazuje právo odmítnout vydání náhradního certifikátu, pokud vzniknou důvodné pochybnosti o původu, identitě nebo stavu díla."
+                    }
+                ]
+            },
+            {
+                "title": "SERVIS, ODBORNÁ ÚDRŽBA A RESTAURATORSKÉ ZÁSAHY",
+                "subsections": [
+                    {
+                        "text": "Vzhledem k povaze autorských děl doporučuje prodávající, aby veškeré odborné čištění, údržbu, opravy nebo restaurátorské zásahy prováděl výhradně prodávající nebo jím určená odborně způsobilá osoba."
+                    },
+                    {
+                        "text": "Jakýkoliv neodborný zásah do konstrukce, povrchu nebo použitých materiálů může vést k nevratnému poškození díla."
+                    },
+                    {
+                        "text": "Prodávající nenese odpovědnost za následky zásahů provedených třetími osobami bez jeho předchozího souhlasu."
+                    }
+                ]
+            },
+            {
+                "title": "ZAPŮJČENÍ DÍLA A VEŘEJNÁ PREZENTACE",
+                "subsections": [
+                    {
+                        "text": "Kupující je oprávněn dílo zapůjčit třetí osobě nebo instituci podle svého uvážení."
+                    },
+                    {
+                        "text": "Prodávající doporučuje, aby před zapůjčením díla galerii, muzeu nebo jiné instituci byla konzultována vhodnost podmínek manipulace, instalace a přepravy."
+                    },
+                    {
+                        "text": "Na žádost kupujícího může prodávající poskytnout odbornou součinnost při přípravě výstav, zápůjček nebo jiných veřejných prezentací."
+                    }
+                ]
+            },
+            {
+                "title": "FOTODOKUMENTACE A PREZENTACE DÍLA",
+                "subsections": [
+                    {
+                        "text": "Prodávající je oprávněn pořizovat a používat fotografie, videozáznamy a další obrazové materiály zachycující autorské dílo pro účely své prezentace, archivace, odborné činnosti, výstav, publikací, katalogů, sociálních sítí a marketingových aktivit."
+                    },
+                    {
+                        "text": "Nebude-li mezi stranami sjednáno jinak, prodávající při zveřejnění díla nebude bez souhlasu kupujícího uvádět jeho osobní údaje ani přesnou adresu umístění díla. "
+                    },
+                    {
+                        "text": "Kupující může písemně požádat o zachování důvěrnosti informací týkajících se vlastnictví díla. Prodávající takové žádosti vyhoví, nebrání-li tomu jeho zákonné povinnosti."
+                    }
+                ]
+            },
+            {
+                "title": "OMEZENÍ ODPOVĚDNOSTI",
+                "subsections": [
+                    {
+                        "text": "Prodávající odpovídá pouze za škodu způsobenou porušením svých zákonných nebo smluvních povinností."
+                    },
+                    {
+                        "text": "Prodávající neodpovídá za škody vzniklé následným nevhodným užíváním díla, jeho přemístěním, nesprávným skladováním, nedostatečným zabezpečením nebo jiným jednáním kupujícího či třetích osob. "
+                    },
+                    {
+                        "text": "Prodávající dále neodpovídá za nepřímou škodu, ušlý zisk ani jiné následné majetkové újmy, pokud takové omezení připouštějí právní předpisy."
+                    }
+                ]
+            },
+            {
+                "title": "VYŠŠÍ MOC",
+                "subsections": [
+                    {
+                        "text": "Prodávající neodpovídá za prodlení ani nesplnění svých povinností, pokud byly způsobeny okolnostmi vyšší moci, které nemohl rozumně předvídat ani ovlivnit. "
+                    },
+                    {
+                        "text": "Za okolnosti vyšší moci se považují zejména přírodní katastrofy, požáry, povodně, epidemie, války, teroristické útoky, občanské nepokoje, dlouhodobé výpadky energií, zásahy orgánů veřejné moci nebo jiné mimořádné události obdobné povahy."
+                    },
+                    {
+                        "text": "Trvá-li překážka způsobená vyšší mocí déle než 90 dnů, jsou obě smluvní strany oprávněny jednat o dalším postupu nebo od smlouvy odstoupit, stanoví-li tak právní předpisy nebo individuální kupní smlouva."
+                    }
+                ]
+            },
+            {
+                "title": "DŮVĚRNOST",
+                "subsections": [
+                    {
+                        "text": "Prodávající i kupující se zavazují zachovávat důvěrnost všech neveřejných informací získaných při uzavírání a plnění kupní smlouvy."
+                    },
+                    {
+                        "text": "Bez předchozího písemného souhlasu druhé strany nebudou zveřejněny zejména individuálně sjednaná kupní cena, smluvní podmínky ani další obchodní informace, pokud jejich zveřejnění nevyžaduje právní předpis."
+                    },
+                    {
+                        "text": "Toto ustanovení se nevztahuje na informace, které je některá ze stran povinna poskytnout na základě právních předpisů nebo pravomocného rozhodnutí příslušného orgánu. "
+                    }
+                ]
+            }
+        ]
+
+    },
+    "en": {
+        "title": "Terms and Conditions",
+        "description": [
+            "Pfauneli s.r.o. Commercial company",
+            "With its registered office at Kamenačky 3828/55, Židenice (Brno-Židenice), 636 00 Brno",
+            "Identification number: 24654370",
+            "Registered in the Commercial Register under the mark C 150875/KSBR by the Regional Court in Brno for the sale of copyright works via the website."
+        ],
+        "sections": [
+            {
+                "title": "USER ACCOUNT",
+                "subsections": [
+                    {
+                        "text": "Based on the registration carried out on the seller's website, the buyer can access his user account, through which he can, in particular, manage his personal data, monitor order history and use other functions of the online store."
+                    },
+                    {
+                        "text": "When registering a user account, the buyer is obliged to provide true, complete and current data. In the event of any change, the buyer is obliged to update this data without undue delay. "
+                    },
+                    {
+                        "text": "Access to the user account is secured by a username and password. The Buyer is obliged to maintain confidentiality of the access data and to take appropriate measures to protect them from misuse."
+                    },
+                    {
+                        "text": "The Buyer is not entitled to allow the use of his user account by third parties."
+                    },
+                    {
+                        "text": "The Seller is entitled to cancel the user account, in particular if the Buyer breaches his obligations arising from the purchase contract or these terms and conditions, or if the user account is not used for a period longer than 24 months."
+                    },
+                    {
+                        "text": "The Seller is not liable for the temporary unavailability of the user account caused by technical maintenance, system updates or circumstances that he cannot reasonably influence."
+                    }
+                ]
+            },
+            {
+                "title": "CONCLUSION OF THE PURCHASE CONTRACT",
+                "subsections": [
+                    {
+                        "text": "All presentations of copyrighted works placed on the Seller's website are of an informative nature and do not constitute a proposal to conclude a contract within the meaning of the relevant provisions of the Civil Code."
+                    },
+                    {
+                        "text": "By sending the order, the Buyer confirms that he has become familiar with these terms and conditions and undertakes to comply with them."
+                    },
+                    {
+                        "text": "The purchase contract is concluded upon receipt of the order by the Seller. The Seller reserves the right to refuse the order, in particular if there is an obvious error in the price, technical data, availability of the work or if the offered work has already been sold."
+                    },
+                    {
+                        "text": "Given that the Seller offers mainly original copyrighted works created in a single copy, the Buyer acknowledges that after their sale it may not be possible to replace the order with another work of the same nature."
+                    },
+                    {
+                        "text": "If the nature of a specific work requires it, technical conditions of installation, transport, handover or other individual conditions may be agreed separately in the purchase contract or in the handover protocol. Such arrangements take precedence over these terms and conditions."
+                    }
+                ]
+            },
+            {
+                "title": "PRICE OF THE WORK AND PAYMENT TERMS",
+                "subsections": [
+                    {
+                        "text": "The purchase price of individual works of art is stated on the Seller's website or is determined by an individual price offer."
+                    },
+                    {
+                        "text": "The purchase price includes only the items explicitly stated in the order or in the purchase contract. The costs of transportation, professional handling, installation, insurance during transportation or other individually agreed services are not part of the purchase price, unless expressly stated otherwise."
+                    },
+                    {
+                        "text": "The purchase price can be paid in particular:",
+                        "list": [
+                            "by bank transfer to the Seller's bank account,",
+                            "in cash upon personal collection, if the Seller allows it,",
+                            "in another manner agreed upon in writing by the contracting parties."
+                        ]
+                    },
+                    {
+                        "text": "Unless otherwise agreed, the purchase price is payable before the handover of the work."
+                    },
+                    {
+                        "text": "The Seller is entitled to request a reasonable deposit before the start of production, completion of the work, reservation of the original or prior to arranging individual transportation. The amount of the deposit will be communicated to the Buyer before the conclusion of the purchase contract."
+                    },
+                    {
+                        "text": "The purchase price is considered paid at the moment of crediting the relevant amount to the seller's bank account or upon receipt of cash by the seller."
+                    },
+                    {
+                        "text": "The seller will issue a tax document after receiving payment or after handing over the work in accordance with the relevant legal regulations."
+                    }
+                ]
+            },
+            {
+                "title": "DELIVERY OF THE WORK",
+                "subsections": [
+                    {
+                        "text": "The seller will hand over the copyrighted work to the buyer in the manner agreed in the purchase contract, in particular by personal handover, through the seller or a person authorized by him."
+                    },
+                    {
+                        "text": "Unless otherwise agreed, the delivery date is individual and depends on the nature of the work, its completion, preparation for transport and other circumstances."
+                    },
+                    {
+                        "text": "The handover may include, in particular, a certificate of authenticity, a handover protocol, handling instructions and other documentation relating to a specific work."
+                    }
+                ]
+            },
+            {
+                "title": "HANDLING, TRANSPORTATION AND INSTALLATION OF A WORK OF ART",
+                "subsections": [
+                    {
+                        "text": "Each work of art is an original, unique and unrepeatable artistic object created in a single copy. Due to its construction, materials used, weight, production technology and high value, it requires professional handling, transportation, storage and installation."
+                    },
+                    {
+                        "text": "Each work includes a transportation system and transport packaging designed exclusively for a specific work. This system is an integral part of the protection of the work and is intended exclusively for its safe transport."
+                    },
+                    {
+                        "text": "The Buyer acknowledges that any handling, relocation, transportation, dismantling or reinstallation carried out without the participation of the Seller or a person expressly authorized by him poses an increased risk of irreversible damage to the work."
+                    },
+                    {
+                        "text": "The Seller therefore provides transportation, handling, installation, dismantling and reinstallation services exclusively through its employees or contractually authorized persons. The terms and conditions of these services are negotiated individually."
+                    },
+                    {
+                        "text": "If the buyer arranges for handling or transport through another person or carries it out himself, all responsibility for the condition of the work from the moment of acceptance to such handling passes to the buyer. The seller is not liable for any mechanical, structural, material or aesthetic damage arising in connection with unauthorized handling or transport."
+                    },
+                    {
+                        "text": "If unauthorized handling, transport or installation occurs, the seller's liability for defects or damage that may be directly or indirectly related to such handling ceases. This provision does not affect the buyer's rights arising from mandatory provisions of legal regulations."
+                    },
+                    {
+                        "text": "The buyer undertakes to keep the original transport packaging and transport elements in an appropriate condition. In the event of their loss or damage, the seller will ensure the production of a new transport system at the price set in the individual price offer."
+                    },
+                    {
+                        "text": "In the interest of preserving the authenticity, value, safety and long-term durability of the work, the Seller recommends that any future transport, relocation, loan, exhibition or change of location should always be consulted with the Seller in advance."
+                    }
+                ]
+            },
+            {
+                "title": "TRANSFER OF RISK OF DAMAGE TO THE WORK",
+                "subsections": [
+                    {
+                        "text": "The risk of damage to the work passes to the buyer at the moment of its acceptance."
+                    },
+                    {
+                        "text": "If the delivery includes professional installation carried out by the seller or a person authorised by him, the risk of damage passes to the buyer at the moment of completion of the installation and signing of the handover protocol, unless otherwise agreed between the parties."
+                    },
+                    {
+                        "text": "From the moment of transfer of risk of damage, the buyer is responsible for the protection, security, storage and routine care of the work."
+                    },
+                    {
+                        "text": "The transfer of risk of damage is not affected by the reservation of ownership pursuant to Article VII."
+                    }
+                ]
+            },
+            {
+                "title": "RESERVATION OF TITLE",
+                "subsections": [
+                    {
+                        "text": "The ownership of the copyrighted work passes to the buyer only upon full payment of the entire purchase price and all related agreed payments."
+                    },
+                    {
+                        "text": "Until the moment of transfer of ownership, the buyer is not entitled to transfer ownership of the work to a third party or encumber it with the rights of third parties in a manner that could jeopardize the rights of the seller."
+                    },
+                    {
+                        "text": "The transfer of ownership does not affect the copyright of the seller."
+                    }
+                ]
+            },
+            {
+                "title": "LIABILITY FOR DEFECTS AND COMPLAINT CONDITIONS",
+                "subsections": [
+                    {
+                        "text": "The seller is responsible for ensuring that the work complies with the purchase contract upon acceptance and does not have defects that would prevent its normal or agreed use."
+                    },
+                    {
+                        "text": "The buyer is obliged to inspect the work upon acceptance and to notify the seller of any obvious defects without undue delay. "
+                    },
+                    {
+                        "text": "A complaint can be made in writing or electronically, stating a description of the defect and providing photographic documentation, if possible given the nature of the defect. "
+                    },
+                    {
+                        "text": "The Seller is not liable for defects or damage caused in particular by:",
+                        "list": [
+                            "normal wear and tear,",
+                            "incorrect handling,",
+                            "unprofessional installation,",
+                            "inappropriate storage,",
+                            "exposure to excessive humidity, temperature or direct sunlight,",
+                            "intervention by a third party,",
+                            "other violation of the Seller's instructions.."
+                        ]
+                    },
+                    {
+                        "text": "The assessment of the complaint may require a personal inspection of the work by the seller or a person authorized by him."
+                    },
+                    {
+                        "text": "This article does not affect the rights of the buyer that cannot be excluded or limited by law."
+                    }
+                ]
+            },
+            {
+                "title": "WITHDRAWAL FROM THE CONTRACT",
+                "subsections": [
+                    {
+                        "text": "The buyer's rights to withdraw from the contract are governed by the relevant provisions of the Civil Code."
+                    },
+                    {
+                        "text": "If the buyer is a consumer, he may withdraw from the contract concluded at a distance within the period specified by law, unless otherwise provided by law."
+                    },
+                    {
+                        "text": "The buyer acknowledges that the right to withdraw from the contract does not apply to cases specified by law, in particular to goods or works made according to his individual requirements or adapted to his personal needs."
+                    },
+                    {
+                        "text": "The seller is entitled to withdraw from the contract in particular in the event of a material breach of the contract by the buyer or in cases specified by law."
+                    }
+                ]
+            },
+            {
+                "title": "COPYRIGHT PROTECTION AND PROHIBITION OF REPRODUCTION OF WORKS",
+                "subsections": [
+                    {
+                        "text": "All copyrights to the offered works belong to the seller or the respective author and are protected by the relevant legal regulations."
+                    },
+                    {
+                        "text": "By purchasing a copyrighted work, the buyer is granted ownership of the material medium of the work, but not the copyright or license to use it, unless expressly agreed otherwise."
+                    },
+                    {
+                        "text": "The buyer is not entitled, without the seller's prior written consent, to:",
+                        "list": [
+                            "make copies of the work for commercial use,",
+                            "create derivative works,",
+                            "use the work for commercial promotion,",
+                            "grant licenses to third parties,",
+                            "otherwise interfere with the seller's copyright."
+                        ]
+                    },
+                    {
+                        "text": "The buyer is entitled to take photographs of the work for his own personal use, provided that this does not affect the seller's copyright."
+                    }
+                ]
+            },
+            {
+                "title": "PROTECTION OF PERSONAL DATA",
+                "subsections": [
+                    {
+                        "text": "The Seller processes the Buyer's personal data in accordance with the relevant legal regulations, in particular the GDPR and related legal regulations."
+                    },
+                    {
+                        "text": "Detailed information on the scope, purpose and method of processing personal data is provided in a separate document „Principles of Personal Data Processing“, published on the Seller's website."
+                    }
+                ]
+            },
+            {
+                "title": "GOVERNING LAW AND OUT-OF-COURT SOLUTIONS ",
+                "subsections": [
+                    {
+                        "text": "Legal relationships arising from the purchase contract and these terms and conditions are governed by the law of the Czech Republic."
+                    },
+                    {
+                        "text": "If the buyer is a consumer, in the event of a consumer dispute, he may contact the competent body for out-of-court settlement of consumer disputes, which is."
+                    },
+                    {
+                        "text": "This does not affect the rights of the contracting parties to contact the competent court."
+                    }
+                ]
+            },
+            {
+                "title": "FINAL PROVISIONS",
+                "subsections": [
+                    {
+                        "text": "These terms and conditions form an integral part of the purchase contract concluded between the seller and the buyer."
+                    },
+                    {
+                        "text": "Individual agreements contained in the purchase contract, handover protocol or other written document take precedence over the provisions of these terms and conditions."
+                    },
+                    {
+                        "text": "If any provision of these Terms and Conditions becomes invalid or ineffective, the validity or effectiveness of the other provisions shall not be affected."
+                    },
+                    {
+                        "text": "The Seller is entitled to amend or supplement the Terms and Conditions accordingly. The wording of the Terms and Conditions effective on the date of conclusion of the relevant Purchase Agreement shall apply to already concluded Purchase Agreements."
+                    },
+                    {
+                        "text": "These Terms and Conditions shall enter into force on the date of their publication on the Seller's website, unless a later date is specified."
+                    }
+                ]
+            },
+            {
+                "title": "CERTIFICATE OF AUTHENTICITY",
+                "subsections": [
+                    {
+                        "text": "If specified for a specific work of authorship, a certificate of authenticity issued by the seller is included in its delivery."
+                    },
+                    {
+                        "text": "The certificate of authenticity confirms the origin of the work, its uniqueness and identification. However, it is not an expert opinion or an assessment of the market value of the work."
+                    },
+                    {
+                        "text": "The buyer is obliged to notify the seller of the loss or damage of the certificate without undue delay. The issuance of a duplicate certificate is possible only after an individual assessment and under the conditions set by the seller."
+                    },
+                    {
+                        "text": "The seller reserves the right to refuse to issue a replacement certificate if there are reasonable doubts about the origin, identity or condition of the work. "
+                    }
+                ]
+            },
+            {
+                "title": "SERVICE, PROFESSIONAL MAINTENANCE AND RESTORATION INTERVENTIONS",
+                "subsections": [
+                    {
+                        "text": "Due to the nature of the works of art, the Seller recommends that all professional cleaning, maintenance, repairs or restoration work be carried out exclusively by the Seller or a professionally qualified person designated by him."
+                    },
+                    {
+                        "text": "Any unprofessional intervention in the structure, surface or materials used may lead to irreversible damage to the work."
+                    },
+                    {
+                        "text": "The Seller is not liable for the consequences of interventions carried out by third parties without his prior consent."
+                    }
+                ]
+            },
+            {
+                "title": "LOAN OF THE WORK AND PUBLIC PRESENTATION",
+                "subsections": [
+                    {
+                        "text": "The Buyer is entitled to lend the work to a third party or institution at his discretion."
+                    },
+                    {
+                        "text": "The Seller recommends that before lending the work to a gallery, museum or other institution, the suitability of the handling, installation and transport conditions be consulted."
+                    },
+                    {
+                        "text": "At the request of the buyer, the seller may provide professional assistance in preparing exhibitions, loans or other public presentations."
+                    }
+                ]
+            },
+            {
+                "title": "PHOTO DOCUMENTATION AND PRESENTATION OF THE WORK",
+                "subsections": [
+                    {
+                        "text": "The Seller is entitled to take and use photographs, video recordings and other visual materials capturing the author's work for the purposes of its presentation, archiving, professional activities, exhibitions, publications, catalogues, social networks and marketing activities."
+                    },
+                    {
+                        "text": "Unless otherwise agreed between the parties, when publishing the work, the Seller will not provide the Buyer's personal data or the exact address of the location of the work without the Buyer's consent."
+                    },
+                    {
+                        "text": "The Buyer may request in writing that information regarding the ownership of the work be kept confidential. The Seller shall comply with such a request, unless its legal obligations prevent it."
+                    }
+                ]
+            },
+            {
+                "title": "LIMITATION OF LIABILITY",
+                "subsections": [
+                    {
+                        "text": "The Seller shall only be liable for damage caused by a breach of its legal or contractual obligations."
+                    },
+                    {
+                        "text": "The Seller is not liable for damages resulting from subsequent inappropriate use of the work, its relocation, improper storage, insufficient security or other actions of the Buyer or third parties."
+                    },
+                    {
+                        "text": "The Seller is also not liable for indirect damage, lost profits or other consequential property damage, if such limitations are permitted by law."
+                    }
+                ]
+            },
+            {
+                "title": "FORCE MAJEURE",
+                "subsections": [
+                    {
+                        "text": "The Seller is not liable for delays or failure to fulfill its obligations if they were caused by circumstances of force majeure that it could not reasonably foresee or influence."
+                    },
+                    {
+                        "text": "Circumstances of force majeure are considered to be, in particular, natural disasters, fires, floods, epidemics, wars, terrorist attacks, civil unrest, long-term power outages, interventions by public authorities or other extraordinary events of a similar nature."
+                    },
+                    {
+                        "text": "If an obstacle caused by force majeure lasts longer than 90 days, both contracting parties are entitled to negotiate further action or withdraw from the contract, if so provided by law or the individual purchase contract."
+                    }
+                ]
+            },
+            {
+                "title": "CONFIDENTIALITY",
+                "subsections": [
+                    {
+                        "text": "The Seller and the Buyer undertake to maintain the confidentiality of all non-public information obtained during the conclusion and performance of the purchase contract."
+                    },
+                    {
+                        "text": "In particular, the individually negotiated purchase price, contractual terms and conditions, and other commercial information will not be published without the prior written consent of the other party, unless their publication is required by law."
+                    },
+                    {
+                        "text": "This provision does not apply to information that either party is obliged to provide on the basis of legal regulations or a final decision of a competent authority."
+                    }
+                ]
+            }
+        ]
+    }
+}
