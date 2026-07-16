@@ -11,11 +11,11 @@
             "cz": {
                 "text": [
                     "Pfauneli není o jedné myšlence, je to mnoho osobností. A v tomto obraze je vyobrazena krátkodobá vražda jedné myšlenky a emoce.",
-                    "Růžová barva je použitá jako symbol jemnosti ale zároveň jako zkreslený pohled a modrá představuje krev.",
-                    "Ostrovy z flexibilního lepidla představují naše logo, které jsme vzali z jedné fotky pořízené v ateliéru, vzali jsme z ní jednotlivé linky a utvořili jsme z něj obličej, který představuje myšlenku zkresleného života, kterou jsme vzali do lesa pro vykonání její vraždy.",
-                    "Přelom, kdy přecházíme do zobrazování čehokoliv a jákéhokoliv názoru. Ve svět, kde lidé umírají a znovu se hledají.",
-                    "Od dětství, představované dětskou houpačkou na stromě, až po překážky v životě, při kterých si lidé berou život, vyobrazené oprátkou na spodním stromě.",
-                    "Tohle je mezera mezi snem který chceme a realitou kterou chceme tvořit."
+                    "Růžová barva je použitá jako symbol jemnosti, ale zároveň jako symbol zkresleného pohledu, zatímco modrá představuje krev.",
+                    "Ostrovy z flexibilního lepidla představují naše logo, které jsme vytvořili z jedné fotky pořízené v ateliéru. Vzali jsme z ní jednotlivé linky a utvořili jsme z nich obličej, který představuje myšlenku zkresleného života, kterou jsme odnesli do lesa pro vykonání její vraždy.",
+                    "Jedná se o přelom, kdy přecházíme k zobrazování čehokoli a jakéhokoli názoru ve světě, kde lidé umírají a znovu se hledají.",
+                    "Od dětství představované dětskou houpačkou na stromě, až po překážky v životě, při kterých si lidé berou život, vyobrazené oprátkou na spodním stromě.",
+                    "Tohle je mezera mezi snem, který chceme, a realitou, kterou chceme tvořit."
                 ]
             },
             "en": {
@@ -31,11 +31,11 @@
         },
         "year": "2025",
         "dimensions": {
-            "cz" : {
+            "cz": {
                 "value": "70x80x2 cm, s přesahem do prostoru: 80x86x16 cm"
             },
-            "en" : {
-                "value": "70x80x2 cm with range to space: 80x86x16 cm"
+            "en": {
+                "value": "70x80x2 cm including elements extending beyond the canvas: 80x86x16 cm"
             }
         },
         "medium": {
@@ -49,8 +49,8 @@
         "price": {
             "value": "22 000,- Kč",
             "info": {
-                "cz": "V ceně je zahrnut převoz, pověšení obrazu, jednou za rok kontrola, odstranění prachu a celková kontrola.",
-                "en": "The price includes transportation, hanging of the painting, inspection and dust removal once a year."
+                "cz": "V ceně je zahrnut převoz, pověšení obrazu, kontrola jednou ročně, odstranění prachu a celková kontrola.",
+                "en": "The price also includes delivery and installation of the artwork, inspection and dust removal once a year."
             }
         },
         "available": false
@@ -66,10 +66,10 @@
         "description": {
             "cz": {
                 "text": [
-                    "Každý z nás se občas zastaví nad svými sny, které se možná zdají jako roztříštěné střepy, ale když je uchopíme, dokážeme z nich tvořit květy, které jsou nám možná dané. ",
-                    "Postava sedící a vzhlížející ke svýmu snu je jedna z osobností Pfauneli. Naděje.",
-                    "Podklad je dřevotříska s tenkou vrstvou zabarveného flexibilního lepidla. Mraky jsou tvarované a broušené z montážní pěny. Tyto podklady jsme posázeli různými květy, kus po kusu. Je zde použito přes tisíc jednotlivých okvětních lístků či květů.",
-                    "Růže na středu je lepena z rozbitého hrnku na kávu a zrcadla. Stonek je z reálné růže, kterému jsme dali bílou barvu. Listy této snové květiny jsou ručně modelované z polykarbonátu, modelovací vodě a akrylu."
+                    "Každý z nás se občas zastaví nad svými sny, které se možná zdají jako roztříštěné střepy, ale když je uchopíme, dokážeme z nich tvořit květy, které jsou nám možná dané.",
+                    "Postava sedící a vzhlížející ke svému snu, je jedna z osobností Pfauneli. Naděje.",
+                    "Podklad je dřevotříska s tenkou vrstvou zabarveného flexibilního lepidla. Mraky jsou tvarované a broušené z montážní pěny. Tyto podklady jsme posázeli různými květy, kousek po kousku. Je zde použito přes tisíc jednotlivých okvětních lístků či květů.",
+                    "Růže uprostřed je lepena z rozbitého hrnku na kávu a zrcadla. Stonek je z reálné růže, kterému jsme dali bílou barvu. Listy této snové květiny jsou ručně modelované z polykarbonátu, modelovací vody a akrylu."
                 ]
             },
             "en": {
@@ -83,16 +83,16 @@
         },
         "year": "2025",
         "dimensions": {
-            "cz" : {
+            "cz": {
                 "value": "40x50x2 cm, s přesahem do prostoru: 72x56x10 cm"
             },
-            "en" : {
-                "value": "40x50x2 cm with range to space: 72x56x10 cm"
+            "en": {
+                "value": "40x50x2 cm including elements extending beyond the canvas: 72x56x10 cm"
             }
         },
         "medium": {
             "cz": {
-                "value": "Dřevotříska, keramika, zrcadlo, ručněmalovaný 3D tisk, stonek z růže, polykarbonát, akryl, sušené a lepidlem fixované okvětní lístky."
+                "value": "Dřevotříska, keramika, zrcadlo, ručně malovaný 3D tisk, stonek z růže, polykarbonát, akryl, sušené a lepidlem fixované okvětní lístky."
             },
             "en": {
                 "value": "Chipboard, ceramic, mirror, hand-painted 3D print, rose stem, polycarbonate, acrylic, dried and glued petals."
@@ -103,7 +103,7 @@
             "value": "60 000,- Kč",
             "info": {
                 "cz": "V ceně je zahrnut převoz, pověšení obrazu, jednou za rok kontrola a odstranění prachu.",
-                "en": "The price includes transportation, hanging of the painting, inspection and dust removal once a year."
+                "en": "The price also includes delivery and installation of the artwork, inspection and dust removal once a year."
             }
         }
     }
