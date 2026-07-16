@@ -6,23 +6,23 @@
         },
         "description": {
             "cz": [
-                "Uzavření a přemýšlení. Začátek naší cesty a formovaní naších myšlenek. Zde se formoval celý koncept. Tři obrazy představují otázky na nás a naše emoce, na věci a momenty, které nás dělají šťastnými a na to, co se děje kolem nás.", 
-                "První etapy a otázky, které povedou základní pilíře v naší cestě.",
+                "Uzavření a přemýšlení. Začátek naší cesty a formování našich myšlenek. Zde se formoval celý koncept. Tři obrazy představují otázky týkající se nás a našich emocí, věcí a momentů, které nás dělají šťastnými, i toho, co se děje kolem nás.", 
+                "První etapy a otázky, které budou tvořit základní pilíře naší cesty.",
                 "V tomto čase vznikal nápad, který má rozvíjet debaty a spojovat lidi.",
                 "Chápat názory a pohledy nás všech.",
                 "Brát z nich každý detail a pochopit jej.",
-                "Chceme vytvořit komunitu která bude pomocí umění komunikovat mezi sebou.",
-                "Předávat si názory a řešit problémy pochopením, společnost by se měla spojovat a fungovat jako celek.",
+                "Chceme vytvořit komunitu, která bude pomocí umění komunikovat mezi sebou.",
+                "Předávat si názory a řešit problémy pochopením. Společnost by se měla spojovat a fungovat jako celek.",
                 "To je Pfauneli."
             ],
             "en": [
-                "Closing and reflection. The beginning of our journey and the formation of our thoughts. This is where the whole concept took shape. The three paintings represent questions about us and our emotions, about things and moments that make us happy and about what is happening around us.",
-                "The first stages and questions that will guide the basic pillars of our journey.",
-                "At this time, an idea was born that should develop debates and connect people.",
+                "Closure and reflection. The beginning of our journey and the formation of our thoughts. This is where the whole concept took shape. The three paintings represent questions about us and our emotions, about things and moments that make us happy and about what is happening around us.",
+                "The first stages and questions that will form the basic pillars of our journey.",
+                "At this time, an idea was born that should encourage discussion and connect people.",
                 "Understand the opinions and views of all of us.",
                 "Take every detail from them and understand it.",
                 "We want to create a community that will communicate with each other through art.",
-                "Exchange opinions and solve problems through understanding, society should connect and function as a whole.",
+                "Exchange opinions and solve problems through understanding. Society should connect and function as a whole.",
                 "That is Pfauneli."
             ]
         },
@@ -31,7 +31,7 @@
                 "slug": "apfdmm",
                 "category": "storytell",
                 "title": {
-                    "en": "AP.F.D.MM"
+                    "en": "AP.F.D.MM."
                 },
                 "subtitle": "Popis I dunno, jak se to jmenuje :)",
                 "href": "/storytell/apfdmm",
@@ -39,17 +39,17 @@
                 "description": {
                     "cz": {
                         "text": [
-                            "Obraz, který měl být jednoduchý a bez hlubší myšlenky. Propadání do depresí a rozstříštěných myšlenek začala etapa hledání sama sebe a hledání odpovědí. Řešíme zde neúprosný čas vyjádřen cvočky z hodinek, nebo vyobrazením staré zhrbené osoby o berli.",
-                            "Flexiblní lepidlo nataženo na plátno má představovat sílu ale zároveň křehkost naší psychiky.",
+                            "Obraz, který měl být jednoduchý a bez hlubší myšlenky. Propadáním do depresí a roztříštěných myšlenek začala etapa hledání sama sebe a hledání odpovědí. Řešíme zde neúprosný čas vyjádřený cvočky z hodinek, nebo vyobrazením staré zhrbené osoby o berli.",
+                            "Flexibilní lepidlo natažené na plátno má představovat sílu, ale zároveň křehkost naší psychiky.",
                             "Černá stretch fólie dokáže krásně znázorňovat tvárnost, možné zhmotnění a nekonečnost v depresi a její prázdnotě.",
-                            "Samotná fólie, kterou jsme použili, je tvarována do specifických obrazců, které jsou schválně vyobrazeny a zároveň to krásně rozvíjí divákovu představivost.",
+                            "Samotná fólie, kterou jsme použili, je tvarována do specifických obrazců, které jsou záměrně vyobrazeny a zároveň rozvíjejí divákovu představivost.",
                             "Řetěz naráží na spoutanost k dané emoci a jehla s nití zase parafrázuje, jak je jednoduché se bodnout o emoci."
                         ],
-                        "info": "na celé ploše jsou různě vyrita data,jména a slangové slova, které byli aktualní pro dané období."
+                        "info": "Na celé ploše jsou různě vyryta data, jména a slangová slova, která byla aktuální pro dané období."
                     },
                     "en": {
                         "text": [
-                            "A painting that was supposed to be simple and without a deeper thought. Falling into depression and fragmented thoughts began the stage of searching for oneself and searching for answers. Here we deal with persistent time expressed by watch studs, or by the depiction of an old hunched person on a crutch.",
+                            "A painting that was supposed to be simple and without a deeper meaning. Falling into depression and fragmented thoughts began the stage of searching for oneself and searching for answers. Here we deal with persistent time expressed by watch studs, or by the depiction of an old hunched person on a crutch.",
                             "Flexible glue stretched onto the canvas is supposed to represent the strength but also the fragility of our psyche.",
                             "Black stretch foil can beautifully depict plasticity, possible materialization and infinity in depression and its emptiness.",
                             "The foil itself that we used is shaped into specific patterns that are deliberately depicted and at the same time it beautifully develops the viewer's imagination.",
@@ -64,13 +64,13 @@
                         "value": "100x100x2 cm, s přesahem do prostoru: 127x107x9 cm"
                     },
                     "en" : {
-                        "value": "100x100x2 cm with range to space: 127x107x9 cm"
+                        "value": "100x100x2 cm including elements extending beyond the canvas: 127x107x9 cm"
                     }
                 },
                 "medium": {
                     "cz": {
                         "value": "Plátno, strečová fólie, flexibilní lepidlo, akryl, kůže, hodinkové cvočky, řetízek.",
-                        "info": "Na plátně je černý akryl potáhnutý dvěmi vrstvami flexibilního lepidla a následně je flexibilní lepidlo broušeno, stretch folie je ručně tvarována do specifických tvárů či pro výplň plochy a představivosti."
+                        "info": "Na plátně je černý akryl potáhnutý dvěma vrstvami flexibilního lepidla a následně je flexibilní lepidlo je broušeno, strečová folie je ručně tvarována do specifických tvarů či ta, aby vyplňovala plochu a podněcovala představivost."
                     },
                     "en": {
                         "value": "Canvas, stretch film, flexible adhesive, acrylic, leather, watch studs, chain.",
@@ -91,12 +91,12 @@
                 "description": {
                     "cz": {
                         "text": [
-                            "Tento obraz vznikal jako druhý, kde ukončujeme depresi. Vždy, když se roztrhne mrak plný deště, přijde azuro.",
-                            "Kruh a brýle představují slepého jedince, který se kouká přímo na to, co miluje, ale stále to nevidí či nechce vidět i když to má před sebou.",
-                            "V tomto období jsem trávil čas s lidmi, kteří mi to připoměli.",
+                            "Tento obraz vznikal jako druhý a uzavírá období deprese. Vždy, když se roztrhne mrak plný deště, přijde azuro.",
+                            "Kruh a brýle představují slepého jedince, který se kouká přímo na to, co miluje, ale stále to nevidí či nechce vidět, i když to má před sebou.",
+                            "V tomto období jsem trávil čas s lidmi, kteří mi to připomněli.",
                             "Dešťové kapky symbolizují rytmus a momenty, na které máme vzpomínat."
                         ],
-                        "info": "Mraky jsou poskládány do obličejů/smajlíků lidí, se kterými jsem trávil čas, při tvoření tohoto obrazu."
+                        "info": "Mraky jsou poskládány do obličejů/smajlíků lidí, se kterými jsem trávil čas při tvoření tohoto obrazu."
                     },
                     "en": {
                         "text": [
@@ -114,7 +114,7 @@
                         "value": "100x100x2 cm, s přesahem do prostoru: 200x118x18 cm"
                     },
                     "en" : {
-                        "value": "100x100x2 cm with range to space: 200x118x18 cm"
+                        "value": "100x100x2 cm including elements extending beyond the canvas: 200x118x18 cm"
                     }
                 },
                 "medium": {
@@ -140,15 +140,15 @@
                     "cz": {
                         "text": [
                             "Obraz velmi jednoduše odráží jemnost a dokonalost přírody oproti lidskému chaotickému počinu.",
-                            "Kde šepot motýlích křídel provází ticho plné smrti.",
-                            "Mezi barvou která hřeje a nocí co chlad nese. ",
-                            "Proč dochází k přehlížení jednoduché krásy, kterou máme každý den kolem sebe. ",
-                            "Každý z nás tuto chybu dělá a i když se snažíme vyhnout realitě, odraz střepů v naší paměti dohání myšlenky.",
-                            "Stopy zanecháváme při bodnutí se o trn, o který v průběhu cesty zavádíme. ",
-                            "Chyba barev a různorodosti. ",
+                            "Šepot motýlích křítel zde provází ticho plné smrti.",
+                            "Nacházíme se mezi barvou, která hřeje, a nocí, která přináší chlad.",
+                            "Proč dochází k přehlížení jednoduché krásy, kterou máme každý den kolem sebe?",
+                            "Každý z nás tuto chybu dělá, a i když se snažíme vyhnout realitě, odraz střepů v naší paměti dohání myšlenky.",
+                            "Stopy zanecháváme při bodnutí se o trn, o který v průběhu cesty zavadíme.",
+                            "Chyba barev a různorodosti.",
                             "Jednoduchost pohledu je smrtí v realitě."
                         ],
-                        "info": "Celý vizuál je situován podle výhledu na Bílé hoře. Dominantu ve výhledu tvoří komín ze spalovny. Příroda a lidé. Krásný a jednoduchý kontrast. Každý střep se s žádným jiným neprotíná středem, každý má vlastní místo. Stejně jako mi lidé, jen to musíme najít, i když je realita roztříštěna. Některé střepy rozložením parafrázuji na obraz Le dilemme de la pliue. Ve spodní části obrazu se ukrývá slovo, tvoří jej dominantní linky ve spodní části obrazu. Je potřeba zrcadlit a kreslit realitu, která je mezi námi ale není viděna. V kouři a západu je schovano Z - 5. Zpět. Vždy se koukat zpět, proč se stalo něco a jak tomu předejít."
+                        "info": "Celý vizuál je situován podle výhledu z Bílé hory. Dominantu ve výhledu tvoří komín ze spalovny. Příroda a lidé. Krásný a jednoduchý kontrast. Žádný střep se neprotíná s jiným, každý má vlastní místo. Stejně jako my, lidé, jen to musíme najít, i když je realita roztříštěna. Rozložením některých střepů odkazuji na obraz Le dilemme de la pluie. Ve spodní části obrazu se ukrývá slovo. Tvoří jej dominantní linky ve spodní části obrazu. Je potřeba zrcadlit a kreslit realitu, která je mezi námi, ale není viděna. V kouři a západu je schováno Z - 5. Zpět. Vždy se koukat zpět, proč se něco stalo a jak tomu předejít."
                     },
                     "en": {
                         "text": [
@@ -161,7 +161,7 @@
                             "The mistake of colors and diversity. ",
                             "Simplicity of view is death in reality."
                         ],
-                        "info": "The entire visual is situated according to the view on Bílá hora. The dominant in the view is the chimney from the incinerator. Nature and people. Beautiful and simple contrast. Each shard does not intersect with any other in the middle, each has its own place. Just like us people, we just have to find it, even if reality is fragmented. By arranging some of the shards, I paraphrase the painting le dilemme de la pliue. A word is hidden in the lower part of the painting, it is formed by the dominant lines in the lower part of the painting. It is necessary to mirror and draw the reality that is among us but not seen. In the smoke and sunset, Z - 5 is hidden. Back. Always looking back, why something happened and how to prevent it."
+                        "info": "The entire visual is situated according to the view on Bílá hora. The dominant in the view is the chimney from the incinerator. Nature and people. Beautiful and simple contrast. Each shard does not intersect with any other in the middle, each has its own place. Just like us people, we just have to find it, even if reality is fragmented. By arranging some of the shards, I paraphrase the painting le dilemme de la pliue. A word is hidden in the lower part of the painting, it is formed by the dominant lines in the lower part of the painting. It is necessary to mirror and draw the reality that is among us but not seen. In the smoke and sunset, Z - 5 (Czech for backwards) is hidden. Back. Always looking back, why something happened and how to prevent it."
                     }
                 },
                 "year": "2025",
@@ -170,7 +170,7 @@
                         "value": "100x100x4 cm, s přesahem do prostoru: 108x102x12 cm"
                     },
                     "en" : {
-                        "value": "100x100x4 cm with range to space: 108x102x12 cm"
+                        "value": "100x100x4 cm including elements extending beyond the canvas: 108x102x12 cm"
                     }
                 },
                 "medium": {
@@ -190,8 +190,8 @@
                 "price": {
                     "value": "142 000,- Kč",
                     "info": {
-                        "cz": "V ceně je zahrnuta krabice pro převoz, která je speciálně tvořena pro obraz. Rovněž je v ceně zahrnuta nabíječka na baterky. Skladování krabice v naších prostorech, dovoz a pověšení obrazu, každoroční celková udržba a dvakrát do roka čištění, 5 let záruka, vstupy na všechny vernisáže a výstavy po celou dobu existence této značky, takže navždy.",
-                        "en": "The price includes a shipping box, which is specially made for the painting. In the price, there is also a battery charger included. Storage of the box in our premises, import and hanging of the painting, annual general maintenance and twice-yearly cleaning, 5-year warranty, entrance to all openings and exhibitions for the entire existence of this brand, so forever."
+                        "cz": "V ceně je zahrnuta krabice pro převoz, která je speciálně tvořena pro obraz. Rovněž je v ceně zahrnuta nabíječka na baterky. Skladování krabice v našich prostorech, dovoz a pověšení obrazu, každoroční celková údržba a dvakrát do roka čištění, záruka na 5 let, vstup na všechny vernisáže a výstavy po celou dobu existence této značky, takže navždy.",
+                        "en": "The price aslo includes a shipping box, which is specially made for the painting. In the price, there is also a battery charger included. Storage of the box in our premises, delivery and installation of the artwork, annual general maintenance and twice-yearly cleaning, 5-year warranty, entrance to all openings and exhibitions for the entire existence of this brand, so forever."
                     }
                 }
             }
@@ -205,7 +205,7 @@
         "description": {
             "cz": [
                 "Tématem jsme my a naše společenské slabosti, které akceptujeme jako náš každodenní chléb.",
-                "Trend který si upevňujeme společně.",
+                "Trend, který si upevňujeme společně.",
                 "Pokrok zpět a níž."
             ],
             "en": [
@@ -228,12 +228,12 @@
                 "description": {
                     "cz": {
                         "text": [
-                            "Obraz představuje první kapitolu příběhu - Pain for a new beginning",
-                            "Materiálně rychlý svět proti životu a jednotě. Vyobrazen rychlou jízdou v hmotném majetku, která nevyhnutělně tvoří kolizi s lidmi, kteří chtějí veřejně říct názor. Smutná část života, ale možná kdyby krom křiku byl čin, kolize by nenastala? To je jen myšlenka, bez správné odpovědi.",
-                            "Zrezlá lopata u vysazeného stromu představuje narážku na činy. Změna by byla zhmotňována rychleji.",
-                            "Člověk co se vyhýbá v protijedoucím autu je jednou z duležitých postav začátku nového příběhu."
+                            "Obraz představuje první kapitolu příběhu – Pain for a new beginning.",
+                            "Materiálně rychlý svět proti životu a jednotě. Je vyobrazen rychlou jízdou ve vozidle představujícím hmotný majetek, která nevyhnutelně tvoří kolizi s lidmi, kteří chtějí veřejně říct svůj názor. Smutná část života, ale možná kdyby místo pouhého křiku následoval čin, kolize by nenastala? To je jen myšlenka, bez správné odpovědi.",
+                            "Zrezlá lopata u vysazeného stromu představuje narážku na činy. Změna by se uskutečňovala rychleji.",
+                            "Člověk v protijedoucím autě, který se snaží vyhnout srážce, je jednou z důležitých postav začátku nového příběhu."
                         ],
-                        "info": "Postava v zeleném autu, představuje jednu z mnoha vyobrazení Pfauneli. Pfauneli je emoce, myšlenka a různé druhy osobností. Zastavuje pro potřebu vykonat pomoc, nebo našel oběť v podobě lišky? Stromy jsou stavěny do pozic, podle obrazu Change z odvětcí Consumer, podle daného měřítka, které používáme zde. První obraz, kde se tovří hlavolamy a hádanky. První záčatký pro nástroj, ktrým s vámi budeme komunikovat"
+                        "info": "Postava v zeleném autu představuje jedno z mnoha vyobrazení Pfauneli. Pfauneli je emoce, myšlenka a různé druhy osobností. Zastavuje, aby poskytl pomoc, nebo našel oběť v podobě lišky? Stromy jsou stavěny do pozic podle obrazu Change z odvětví Consumer a podle daného měřítka, které používáme zde. První obraz, kde se tvoří hlavolamy a hádanky. První začátky pro nástroj, kterým s vámi budeme komunikovat."
                     },
                     "en": {
                         "text": [
@@ -243,23 +243,21 @@
                             "A rusty shovel by a planted tree, this represents an allusion to actions. Change would materialize faster.",
                             "A person who avoids an oncoming car is one of the important characters at the beginning of a new story."
                         ],
-                        "info": "The figure in the green car represents one of the many depictions of Pfauneli. Pfauneli is an emotion, an idea and various types of personalities. Does he stop to help, or has he found a victim in the form of a fox? The trees are placed in positions, according to the image Change from the Consumer sector, according to the given scale, which we use here. The first image, where puzzles and riddles are created. The first beginnings for the tool with which we will communicate with you"
+                        "info": "The figure in the green car represents one of the many depictions of Pfauneli. Pfauneli is an emotion, an idea and various types of personalities. Does he stop to help, or has he found a victim in the form of a fox? The trees are placed in positions, according to the image Change from the Consumer sector, according to the given scale, which we use here. The first image, where puzzles and riddles are created. The first beginnings for the tool with which we will communicate with you."
                     }
                 },
                 "year": "2025",
                 "dimensions": {
                     "cz" : {
-                        "value": "??",
-                        "info": "??"
+                        "value": "70x70x2 cm, s přesahem do prostoru: 76,5x79x32 cm"
                     },
                     "en" : {
-                        "value": "??",
-                        "info": "??"
+                        "value": "70x70x2 cm including elements extending beyond the canvas: 76.5x79x32 cm"
                     }
                 },
                 "medium": {
                     "cz": {
-                        "value": "Dřevotříska, materiál pro tvoření modelů, 3D tisk ručně barvený, špička kristalu, hlína, hrubý písek, akryl."
+                        "value": "Dřevotříska, materiál pro tvoření modelů, 3D tisk ručně barvený, špička krystalu, hlína, hrubý písek, akryl."
                     },
                     "en": {
                         "value": "Chipboard, model making material, hand-painted 3D print, crystal tip, clay, coarse sand, acrylic."
@@ -282,14 +280,14 @@
                 "description": {
                     "cz": {
                         "text": [
-                            "Druhá kapitola je o naší otupělosti v komunikaci mezi lidmi. I když naše rychlá doba nám dává najevo, že se ženeme do nezvladatelné doby, tak i tak pokračujeme jako celek do rozdělování mezilidských vztahů.", 
-                            "Pouliční lampy hledící na lidský počin, který jako celek nefunguje. Přitom se v kontrastu za nimi odehrává tanec hejna, který dokáže tvořit i složité obrazce uplně bez chyby.",
+                            "Druhá kapitola je o naší otupělosti v komunikaci mezi lidmi. I když nám dnešní rychlá doba dává najevo, že se ženeme do nezvladatelné budoucnosti, tak i přesto pokračujeme jako celek do rozdělování mezilidských vztahů.", 
+                            "Pouliční lampy hledí na lidský počin, který jako celek nefunguje. Přitom se v kontrastu za nimi odehrává tanec hejna, který dokáže tvořit i složité obrazce úplně bez chyby.",
                             "Možná nefunguje díky našemu neoddělitelnému společníkovi, který nám sebral naše cítění.",
                             "Dostáváme se do momentu, kdy se stává z tragédie samozřejmost a z rozpadu inovace.",
-                            "Lidskou bolest si zaznamenáváme, ale nesnažíme se natolik, abychom ji předešli. Nechceme ji léčit i když zasáhla každého z nás.",
+                            "Lidskou bolest si zaznamenáváme, ale nesnažíme se natolik, abychom ji předešli. Nechceme ji léčit, i když zasáhla každého z nás.",
                             "Pomalá smrt ve ztraceném světě."
                         ],
-                        "info": "Hejno výchází z reálné fotky pořizenou při přemýšlení této kapitoly. Jednotné a koordinované tvary přírody krásně kontrastují vůči lidskému chaosu. Každá postava držíci telefon je tlačítkem pro jednotlivé lampy. Hlník je broušen jakožto mračno, ale pod různými úhly světla jsme schovali obličeje, postavy a oči hledíci na nás. Postava vraždící lišku je osobnost, projíždějící kolem střetu. Některé tagy na lampách budou budoucími obrazy."
+                        "info": "Hejno vychází z reálné fotky pořízené při promýšlení této kapitoly. Jednotné a koordinované tvary přírody krásně kontrastují vůči lidskému chaosu. Každá postava držící telefon je tlačítkem pro jednotlivé lampy. Hliník je broušen do podoby mračna, ale pod různými úhly světla jsme schovali obličeje, postavy a oči hledící na nás. Postava vraždící lišku je jednou z osobností projíždějících kolem místa střetu. Některé tagy na lampách budou budoucími obrazy."
                     },
                     "en": {
                         "text": [
@@ -309,7 +307,7 @@
                         "value": "80x94x20,5 cm"
                     },
                     "en" : {
-                        "value": "80x94x20,5 cm"
+                        "value": "80x94x20.5 cm"
                     }
                 },
                 "medium": {
@@ -329,8 +327,8 @@
                 "price": {
                     "value": "160 636,- Kč",
                     "info": {
-                        "cz": "V ceně je zahrnuta krabice pro převoz, která je speciálně tvořena pro obraz. Rovněž je v ceně zahrnuta nabíječka na baterky. Skladování krabice v naších prostorech, dovoz a pověšení obrazu, každoroční celková udržba a dvakrát do roka čištění, 5 let záruka, vstupy na všechny vernisáže a výstavy po celou dobu existence této značky, takže navždy.",
-                        "en": "The price includes a shipping box, which is specially made for the painting. In the price, there is also a battery charger included. Storage of the box in our premises, import and hanging of the painting, annual general maintenance and twice-yearly cleaning, 5-year warranty, entrance to all openings and exhibitions for the entire existence of this brand, so forever."
+                        "cz": "V ceně je zahrnuta krabice pro převoz, která je speciálně tvořena pro obraz. Rovněž je v ceně zahrnuta nabíječka na baterky. Skladování krabice v našich prostorech, dovoz a pověšení obrazu, každoroční celková udržba a dvakrát do roka čištění, 5 let záruka, vstupy na všechny vernisáže a výstavy po celou dobu existence této značky, takže navždy.",
+                        "en": "The price also includes a shipping box, which is specially made for the painting. In the price, there is also a battery charger included. Storage of the box in our premises, delivery and installation of the artwork, annual general maintenance and twice-yearly cleaning, 5-year warranty, entrance to all openings and exhibitions for the entire existence of this brand, so forever."
                     }
                 }
             }

@@ -322,7 +322,7 @@ export default function ArtworkDetail({
                             </p>
                         )}
 
-                        {medium && medium.value && (
+                        {medium && localizedMedium && (
                             <p>
                                 <strong>{localizedMediumHeader}:</strong> {localizedMedium.value} 
                                 {localizedMedium.info && <InfoTooltip text={localizedMedium.info} />}
@@ -368,7 +368,7 @@ export default function ArtworkDetail({
                         <button
                             className="mt-8 block border border-black px-5 py-2 transition-colors hover:bg-black hover:text-white"
                         >
-                            {language === 'cz' ? 'Nedostupný' : 'Not available'}
+                            {language === 'cz' ? 'Prodané' : 'Sold'}
                         </button>
                     )}
 

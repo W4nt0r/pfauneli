@@ -37,7 +37,7 @@ function CardVisual({
 
                 <div className="relative z-10 flex h-full items-center justify-center px-4 sm:px-6 md:px-8">
                     <div
-                        className={`relative flex w-full flex-col items-center justify-center gap-4 transition-transform duration-300 ${
+                        className={`relative flex w-full flex-col items-center justify-center transition-transform duration-300 ${
                             hoverable ? 'group-hover:scale-110' : ''
                         }`}
                     >
@@ -62,11 +62,14 @@ function CardVisual({
                                     priority
                                     className="
                                         pointer-events-none
+                                        absolute
+                                        top-1/2
+                                        mt-8
                                         h-[18px]
                                         w-auto
                                         max-w-full
                                         object-contain
-                                        sm:h-[14px]
+                                        sm:h-[10px]
                                         md:h-[18px]
                                         lg:h-[20px]
                                     "
